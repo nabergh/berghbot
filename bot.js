@@ -7,8 +7,9 @@ var delay = 500;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
-    greeting = /(hi|hello|hey).*bergh\s*bot/ig,
-    fuck = /fuck.*you.*bergh\s*bot/ig;
+    greeting = /(hi|hello|hey)\b.*bergh\s*bot/ig,
+    fuck = /fuck\b.*you.*bergh\s*bot/ig,
+    gmail = /grant.*mail/ig;
   // greeting = /^\/cool guy$/;
   // console.log(JSON.stringify(request));
   this.res.writeHead(200);
@@ -26,6 +27,10 @@ function respond() {
     }
     if (fuck.test(request.text)) {
       var msg = "Fuck you too, " + request["name"] + "!";
+      setTimeout(postMessage, delay, msg);
+    }
+    if (gmail.test(request.text)) {
+      var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
       setTimeout(postMessage, delay, msg);
     }
   };
