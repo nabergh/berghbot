@@ -3,30 +3,30 @@ var cool = require('cool-ascii-faces');
 
 var botID = process.env.BOT_ID;
 var counter = 0;
+var delay = 500;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
     greeting = /(hi|hello|hey).*berghbot/ig,
     fuck = /fuck.*you.*berghbot/ig;
-    // greeting = /^\/cool guy$/;
+  // greeting = /^\/cool guy$/;
   // console.log(JSON.stringify(request));
   this.res.writeHead(200);
 
   if (request.text) {
-    if (request["user_id"] == "10929478") {
+    if (request["user_id"] == "16149260") {
       if (++counter > 2) {
-        setTimeout(postMessage, 300, "Shut up, Nick");
-        // postMessage("Shut up, Nick");
+        setTimeout(postMessage, delay, "Shut up, Grant");
         counter = 0;
       }
     }
     if (greeting.test(request.text)) {
       var msg = "Hi " + request["name"] + "! " + cool();
-      postMessage(msg);
+      setTimeout(postMessage, delay, msg);
     }
     if (fuck.test(request.text)) {
       var msg = "Fuck you too, " + request["name"] + "!";
-      postMessage(msg);
+      setTimeout(postMessage, delay, msg);
     }
   };
   this.res.end();
