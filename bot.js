@@ -6,23 +6,23 @@ var botID = process.env.BOT_ID;
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
     botRegex = /^\/cool guy$/;
-  console.log("User id: " + request["user_id"]);
 
-  if (request.text && botRegex.test(request.text)) {
-    this.res.writeHead(200);
-    postMessage();
-    this.res.end();
-  } else {
-    console.log("don't care");
-    this.res.writeHead(200);
-    this.res.end();
-  }
+  this.res.writeHead(200);
+
+  if (request.text) {
+    if (request["user_id"] == "10929478") {
+      postMessage("Shut up Nick");
+    }
+    if (request.text && botRegex.test(request.text)) {
+      postMessage(cool());
+    }
+  };
+  this.res.end();
+
 }
 
-function postMessage() {
-  var botResponse, options, body, botReq;
-
-  botResponse = cool();
+function postMessage(botResponse) {
+  var options, body, botReq;
 
   options = {
     hostname: 'api.groupme.com',
