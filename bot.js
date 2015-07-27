@@ -2,18 +2,23 @@ var HTTPS = require('https');
 var cool = require('cool-ascii-faces');
 
 var botID = process.env.BOT_ID;
+var counter = 0;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
-    botRegex = /^\/cool guy$/;
-
+    greeting = /(hi|hello).*berghbot/ig;
+    // greeting = /^\/cool guy$/;
+  console.log(JSON.stringify(request));
   this.res.writeHead(200);
 
   if (request.text) {
     if (request["user_id"] == "10929478") {
-      postMessage("Shut up Nick");
+      if (counter++ > 2) {
+        postMessage("Shut up, Nick");
+        counter = 0;
+      }
     }
-    if (request.text && botRegex.test(request.text)) {
+    if (request.text && greeting.test(request.text)) {
       postMessage(cool());
     }
   };
