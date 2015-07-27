@@ -15,7 +15,7 @@ function respond() {
   if (request.text) {
     if (request["user_id"] == "10929478") {
       if (++counter > 2) {
-        setTimeout(postMessage, 100, "Shut up, Nick");
+        setTimeout(postMessage, 500, "Shut up, Nick");
         // postMessage("Shut up, Nick");
         counter = 0;
       }
