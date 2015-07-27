@@ -8,7 +8,7 @@ var delay = 500;
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
     greeting = /(hi|hello|hey)\b.*bergh\s*bot/ig,
-    fuck = /fuck\b.*you.*bergh\s*bot/ig,
+    fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
     gmail = /grant.*mail/ig;
   // greeting = /^\/cool guy$/;
   // console.log(JSON.stringify(request));
