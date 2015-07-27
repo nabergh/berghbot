@@ -6,21 +6,27 @@ var counter = 0;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
-    greeting = /(hi|hello).*berghbot/ig;
+    greeting = /(hi|hello|hey).*berghbot/ig,
+    fuck = /fuck.*you.*berghbot/ig;
     // greeting = /^\/cool guy$/;
-  console.log(JSON.stringify(request));
+  // console.log(JSON.stringify(request));
   this.res.writeHead(200);
 
   if (request.text) {
     if (request["user_id"] == "10929478") {
-      if (counter++ > 2) {
+      if (++counter > 2) {
         postMessage("Shut up, Nick");
         counter = 0;
       }
     }
-    if (request.text && greeting.test(request.text)) {
-      postMessage(cool());
+    if (greeting.test(request.text)) {
+      var msg = "Hi " + request["name"] + "! " + cool();
+      postMessage(msg);
     }
+    if (fuck.test(request.text)) {
+      var msg = "Fuck you too, " + request["name"] + "!";
+      postMessage(msg);
+    };
   };
   this.res.end();
 
