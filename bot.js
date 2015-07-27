@@ -15,7 +15,8 @@ function respond() {
   if (request.text) {
     if (request["user_id"] == "10929478") {
       if (++counter > 2) {
-        postMessage("Shut up, Nick");
+        setTimeout(postMessage, 100, "Shut up, Nick");
+        // postMessage("Shut up, Nick");
         counter = 0;
       }
     }
@@ -26,7 +27,7 @@ function respond() {
     if (fuck.test(request.text)) {
       var msg = "Fuck you too, " + request["name"] + "!";
       postMessage(msg);
-    };
+    }
   };
   this.res.end();
 
