@@ -29,10 +29,10 @@ function respond() {
       var msg = "Fuck you too, " + request["name"] + "!";
       setTimeout(postMessage, delay, msg);
     }
-    if (gmail.test(request.text)) {
-      var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
-      setTimeout(postMessage, delay, msg);
-    }
+    // if (gmail.test(request.text)) {
+    //   var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
+    //   setTimeout(postMessage, delay, msg);
+    // }
   };
   this.res.end();
 
