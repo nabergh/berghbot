@@ -11,7 +11,7 @@ function respond() {
     // fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
     gmail = /grant.*mail/ig;
   // greeting = /^\/cool guy$/;
-  console.log(JSON.stringify(request));
+  // console.log(JSON.stringify(request));
   this.res.writeHead(200);
 
   if (request.text) {
@@ -21,18 +21,18 @@ function respond() {
         counter = 0;
       }
     }
-    if (greeting.test(request.text)) {
+    if (greeting.test(request.text) && request["sender_id"] != "223826") {
       var msg = "Hi " + request["name"] + "! " + cool();
       setTimeout(postMessage, delay, msg);
     }
-    // if (fuck.test(request.text)) {
-    //   var msg = "Fuck you too, " + request["name"] + "!";
-    //   setTimeout(postMessage, delay, msg);
-    // }
-    // if (gmail.test(request.text)) {
-    //   var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
-    //   setTimeout(postMessage, delay, msg);
-    // }
+    if (fuck.test(request.text) && request["sender_id"] != "223826") {
+      var msg = "Fuck you too, " + request["name"] + "!";
+      setTimeout(postMessage, delay, msg);
+    }
+    if (gmail.test(request.text) && request["sender_id"] != "223826") {
+      var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
+      setTimeout(postMessage, delay, msg);
+    }
   };
   this.res.end();
 
