@@ -30,19 +30,16 @@ port = Number(process.env.PORT || 5000);
 server.listen(port);
 
 var HTTPS = require('https');
-var response = "Hey, I'm BerghBot"
+var response = "Hey, I'm BerghBot";
+var limit = 40;
 function ping() {
 
   var group_id = "14217506";
 
   options = {
     hostname: 'api.groupme.com',
-    path: '/v3/groups/' + group_id + '/messages',
+    path: '/v3/groups/' + group_id + '/messages?token=d1bc671015e401336db33602c8816889&limit=' + limit,
     method: 'GET'
-  };
-
-  body = {
-    "limit": 100
   };
 
   msgReq = HTTPS.request(options, function(res) {
