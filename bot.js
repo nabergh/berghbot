@@ -3,12 +3,12 @@ var cool = require('cool-ascii-faces');
 
 var botID = process.env.BOT_ID;
 var counter = 0;
-var delay = 500;
+var delay = 700;
 
 function respond() {
   var request = JSON.parse(this.req.chunks[0]),
     greeting = /(hi|hello|hey)\b.*bergh\s*bot/ig,
-    fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
+    // fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
     gmail = /grant.*mail/ig;
   // greeting = /^\/cool guy$/;
   // console.log(JSON.stringify(request));
@@ -25,10 +25,10 @@ function respond() {
       var msg = "Hi " + request["name"] + "! " + cool();
       setTimeout(postMessage, delay, msg);
     }
-    if (fuck.test(request.text)) {
-      var msg = "Fuck you too, " + request["name"] + "!";
-      setTimeout(postMessage, delay, msg);
-    }
+    // if (fuck.test(request.text)) {
+    //   var msg = "Fuck you too, " + request["name"] + "!";
+    //   setTimeout(postMessage, delay, msg);
+    // }
     // if (gmail.test(request.text)) {
     //   var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
     //   setTimeout(postMessage, delay, msg);
