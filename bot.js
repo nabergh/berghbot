@@ -11,7 +11,7 @@ function respond() {
     // fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
     gmail = /grant.*mail/ig;
   // greeting = /^\/cool guy$/;
-  // console.log(JSON.stringify(request));
+  console.log(JSON.stringify(request));
   this.res.writeHead(200);
 
   if (request.text) {
