@@ -10,9 +10,6 @@ router = new director.http.Router({
     post: bot.respond,
     get: ping
   },
-  '/parrot': {
-    post: bot.parrot
-  }
 });
 
 server = http.createServer(function(req, res) {

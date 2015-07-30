@@ -14,6 +14,10 @@ function respond() {
   // console.log(JSON.stringify(request));
   this.res.writeHead(200);
 
+  if (request.parrot && request.bot_id == "e1c8fea0aaf1e54801cfd021ff") {
+    postMessage(request.text);
+  }
+
   if (request.text) {
     if (request["user_id"] == "16149260") {
       if (++counter > 5) {
