@@ -38,6 +38,13 @@ function respond() {
 
 }
 
+function parrot() {
+  var request = JSON.parse(this.req.chunks[0]);
+  if (request.text && request.id == "e1c8fea0aaf1e54801cfd021ff") {
+    postMessage(request.text);
+  }
+}
+
 function postMessage(botResponse) {
   var options, body, botReq;
 
@@ -75,7 +82,7 @@ exports.respond = respond;
 
 var members = [{
   "user_id": "10929478",
-  "nickname": "ʕ•ᴥ•ʔ",
+  "nickname": "Nick",
   "image_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
   "id": "89462386",
   "muted": false,

@@ -9,6 +9,9 @@ router = new director.http.Router({
   '/': {
     post: bot.respond,
     get: ping
+  },
+  '/parrot': {
+    post: bot.parrot
   }
 });
 
@@ -29,36 +32,8 @@ server = http.createServer(function(req, res) {
 port = Number(process.env.PORT || 5000);
 server.listen(port);
 
-var HTTPS = require('https');
 var response = "Hey, I'm BerghBot";
-var limit = 40;
 function ping() {
-
-  // var group_id = "14217506";
-
-  // options = {
-  //   hostname: 'api.groupme.com',
-  //   path: '/v3/groups/' + group_id + '/messages?token=d1bc671015e401336db33602c8816889&limit=' + limit,
-  //   method: 'GET'
-  // };
-
-  // msgReq = HTTPS.request(options, function(res) {
-  //   if (res.statusCode == 202) {
-  //     response = JSON.stringify(res)
-  //   } else {
-  //     response = 'rejecting bad status code ' + res.statusCode;
-  //   }
-  // });
-
-  // msgReq.on('error', function(err) {
-  //   console.log('error posting message ' + JSON.stringify(err));
-  // });
-  // msgReq.on('timeout', function(err) {
-  //   console.log('timeout posting message ' + JSON.stringify(err));
-  // });
-  // msgReq.end(JSON.stringify(body));
-
-
   this.res.writeHead(200);
   this.res.end(response);
 }
