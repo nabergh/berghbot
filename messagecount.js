@@ -3,6 +3,7 @@ var fs = require('fs');
 var groupme = require('groupme').Stateless;
 
 const ACCESS_TOKEN = "d1bc671015e401336db33602c8816889";
+var first_msg_id = "143282178214641284";
 var group_id = "14217506";
 
 var messages = JSON.parse(fs.readFileSync('messages.json'))["messages"];
@@ -27,6 +28,11 @@ var options = {
   limit: 100
 };
 
+function refreshMessages () {
+  messages = [];
+  getMoreMessages(first_msg_id);
+}
+
 function getMoreMessages(after_id) {
   if (after_id) {
     options["after_id"] = after_id;
@@ -45,7 +51,6 @@ function appendMessages(err, data) {
   if (data["messages"].length == options.limit) {
     getMoreMessages(data["messages"][options.limit - 1]["id"]);
   } else {
-    // messages.reverse();
     fs.writeFileSync('messages.json', JSON.stringify({
       "messages": messages
     }, null, 2));
@@ -232,4 +237,5 @@ var membersList = [{
   "autokicked": false
 }];
 
-updateMessages();
+// updateMessages();
+refreshMessages();

@@ -4,13 +4,13 @@
     "nickname": "BerghBot",
     "muted": false,
     "autokicked": false,
-    "favorites": 120,
-    "total": 63,
-    "good": 33,
+    "favorites": 142,
+    "total": 68,
+    "good": 38,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 1.9047619047619047,
-    "goodRatio": 0.5238095238095238
+    "ratio": 2.088235294117647,
+    "goodRatio": 0.5588235294117647
   },
   "275174": {
     "user_id": "275174",
@@ -19,16 +19,17 @@
     "id": "89462537",
     "muted": false,
     "autokicked": false,
-    "favorites": 370,
-    "total": 119,
-    "good": 90,
-    "self_likes": 2,
+    "favorites": 404,
+    "total": 129,
+    "good": 100,
+    "self_likes": 3,
     "self_liked": [
       "And he'll be super annoyed by getting 16 calls all at once ",
-      "Good talk guys #debatesbygerg"
+      "Good talk guys #debatesbygerg",
+      "  What a loser "
     ],
-    "ratio": 3.1092436974789917,
-    "goodRatio": 0.7563025210084033
+    "ratio": 3.131782945736434,
+    "goodRatio": 0.7751937984496124
   },
   "2741336": {
     "user_id": "2741336",
@@ -37,16 +38,16 @@
     "id": "90701386",
     "muted": false,
     "autokicked": false,
-    "favorites": 226,
+    "favorites": 234,
     "total": 138,
-    "good": 80,
+    "good": 81,
     "self_likes": 2,
     "self_liked": [
       "You guys are cute 👏🏼",
       null
     ],
-    "ratio": 1.6376811594202898,
-    "goodRatio": 0.5797101449275363
+    "ratio": 1.6956521739130435,
+    "goodRatio": 0.5869565217391305
   },
   "6915490": {
     "user_id": "6915490",
@@ -55,9 +56,9 @@
     "id": "89463392",
     "muted": false,
     "autokicked": false,
-    "favorites": 275,
-    "total": 96,
-    "good": 69,
+    "favorites": 285,
+    "total": 110,
+    "good": 74,
     "self_likes": 5,
     "self_liked": [
       null,
@@ -66,8 +67,8 @@
       null,
       null
     ],
-    "ratio": 2.8645833333333335,
-    "goodRatio": 0.71875
+    "ratio": 2.590909090909091,
+    "goodRatio": 0.6727272727272727
   },
   "7053341": {
     "user_id": "7053341",
@@ -76,17 +77,17 @@
     "id": "89462553",
     "muted": false,
     "autokicked": false,
-    "favorites": 258,
-    "total": 86,
-    "good": 68,
+    "favorites": 269,
+    "total": 89,
+    "good": 71,
     "self_likes": 3,
     "self_liked": [
       null,
       "just email our support line at grant.shepherd629@gmail.com",
       "Nicdas wins person of the century"
     ],
-    "ratio": 3,
-    "goodRatio": 0.7906976744186046
+    "ratio": 3.0224719101123596,
+    "goodRatio": 0.797752808988764
   },
   "8470855": {
     "user_id": "8470855",
@@ -95,13 +96,13 @@
     "id": "90307797",
     "muted": false,
     "autokicked": false,
-    "favorites": 211,
-    "total": 140,
-    "good": 84,
+    "favorites": 242,
+    "total": 147,
+    "good": 91,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 1.5071428571428571,
-    "goodRatio": 0.6
+    "ratio": 1.6462585034013606,
+    "goodRatio": 0.6190476190476191
   },
   "8985925": {
     "user_id": "8985925",
@@ -110,13 +111,13 @@
     "id": "89462518",
     "muted": false,
     "autokicked": false,
-    "favorites": 217,
-    "total": 51,
-    "good": 46,
+    "favorites": 223,
+    "total": 52,
+    "good": 47,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 4.254901960784314,
-    "goodRatio": 0.9019607843137255
+    "ratio": 4.288461538461538,
+    "goodRatio": 0.9038461538461539
   },
   "9421806": {
     "user_id": "9421806",
@@ -125,13 +126,13 @@
     "id": "89467714",
     "muted": false,
     "autokicked": false,
-    "favorites": 145,
-    "total": 72,
-    "good": 53,
+    "favorites": 155,
+    "total": 74,
+    "good": 55,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 2.013888888888889,
-    "goodRatio": 0.7361111111111112
+    "ratio": 2.0945945945945947,
+    "goodRatio": 0.7432432432432432
   },
   "10929478": {
     "user_id": "10929478",
@@ -140,19 +141,18 @@
     "id": "89462386",
     "muted": false,
     "autokicked": false,
-    "favorites": 454,
-    "total": 195,
-    "good": 126,
-    "self_likes": 5,
+    "favorites": 577,
+    "total": 228,
+    "good": 157,
+    "self_likes": 4,
     "self_liked": [
       null,
       "NEW EPISODE RICK AND MORTY LEAKED https://vid.me/vZiW",
       "episode 2 waaaaaaaaat https://vid.me/u29d",
-      "�🗽🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🗽�",
-      "it will create an infinite loop"
+      "�🗽🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🗽�"
     ],
-    "ratio": 2.3282051282051284,
-    "goodRatio": 0.6461538461538462
+    "ratio": 2.530701754385965,
+    "goodRatio": 0.6885964912280702
   },
   "12128866": {
     "user_id": "12128866",
@@ -161,15 +161,15 @@
     "id": "89533081",
     "muted": false,
     "autokicked": false,
-    "favorites": 191,
-    "total": 98,
-    "good": 69,
+    "favorites": 194,
+    "total": 99,
+    "good": 70,
     "self_likes": 1,
     "self_liked": [
       "Love that you liked your post yourself. It IS that important"
     ],
-    "ratio": 1.9489795918367347,
-    "goodRatio": 0.7040816326530612
+    "ratio": 1.9595959595959596,
+    "goodRatio": 0.7070707070707071
   },
   "12334230": {
     "user_id": "12334230",
@@ -178,13 +178,13 @@
     "id": "89478185",
     "muted": false,
     "autokicked": false,
-    "favorites": 54,
-    "total": 18,
-    "good": 16,
+    "favorites": 61,
+    "total": 19,
+    "good": 17,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 3,
-    "goodRatio": 0.8888888888888888
+    "ratio": 3.210526315789474,
+    "goodRatio": 0.8947368421052632
   },
   "12822125": {
     "user_id": "12822125",
@@ -193,15 +193,17 @@
     "id": "89753752",
     "muted": false,
     "autokicked": false,
-    "favorites": 94,
-    "total": 78,
-    "good": 25,
-    "self_likes": 1,
+    "favorites": 120,
+    "total": 86,
+    "good": 33,
+    "self_likes": 3,
     "self_liked": [
-      "Greg and Vlad couldn't find the bathroom...that naan bread goes through your system fast! Haha"
+      "Greg and Vlad couldn't find the bathroom...that naan bread goes through your system fast! Haha",
+      "https://v.groupme.com/14217506/2015-07-31T15:25:48Z/397c1d9f.568x320r90.mp4",
+      null
     ],
-    "ratio": 1.205128205128205,
-    "goodRatio": 0.32051282051282054
+    "ratio": 1.3953488372093024,
+    "goodRatio": 0.38372093023255816
   },
   "13066463": {
     "user_id": "13066463",
@@ -210,12 +212,12 @@
     "id": "90700787",
     "muted": false,
     "autokicked": false,
-    "favorites": 89,
+    "favorites": 92,
     "total": 53,
     "good": 26,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 1.679245283018868,
+    "ratio": 1.7358490566037736,
     "goodRatio": 0.49056603773584906
   },
   "16149260": {
@@ -225,13 +227,13 @@
     "id": "90837019",
     "muted": false,
     "autokicked": false,
-    "favorites": 372,
-    "total": 366,
-    "good": 156,
+    "favorites": 386,
+    "total": 382,
+    "good": 163,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 1.0163934426229508,
-    "goodRatio": 0.4262295081967213
+    "ratio": 1.0104712041884816,
+    "goodRatio": 0.42670157068062825
   },
   "22154404": {
     "user_id": "22154404",
@@ -240,13 +242,13 @@
     "id": "90670999",
     "muted": false,
     "autokicked": false,
-    "favorites": 105,
-    "total": 63,
-    "good": 35,
+    "favorites": 117,
+    "total": 70,
+    "good": 40,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 1.6666666666666667,
-    "goodRatio": 0.5555555555555556
+    "ratio": 1.6714285714285715,
+    "goodRatio": 0.5714285714285714
   },
   "27529904": {
     "user_id": "27529904",
@@ -255,13 +257,13 @@
     "id": "89464154",
     "muted": false,
     "autokicked": false,
-    "favorites": 26,
-    "total": 12,
-    "good": 10,
+    "favorites": 32,
+    "total": 13,
+    "good": 11,
     "self_likes": 0,
     "self_liked": [],
-    "ratio": 2.1666666666666665,
-    "goodRatio": 0.8333333333333334
+    "ratio": 2.4615384615384617,
+    "goodRatio": 0.8461538461538461
   },
   "27529955": {
     "user_id": "27529955",
@@ -309,6 +311,33 @@
       "system": false,
       "text": "Had food poisoning on my second day back in the states #dontdrinkthewater ",
       "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/252x263.jpeg.07c0f72a50834342870120582384188c",
+      "created_at": 1438228015,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "16149260",
+        "22154404",
+        "275174",
+        "6915490",
+        "7053341",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143822801521186228",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "8b86f0c0189b01338d2c22000b90861d",
+      "system": false,
+      "text": "Fuck you too, Nick!",
+      "user_id": "223826"
     },
     {
       "attachments": [],
@@ -529,32 +558,6 @@
       "system": false,
       "text": "I love lamp",
       "user_id": "10929478"
-    },
-    {
-      "attachments": [],
-      "avatar_url": "http://i.groupme.com/252x263.jpeg.07c0f72a50834342870120582384188c",
-      "created_at": 1438051290,
-      "favorited_by": [
-        "10929478",
-        "12128866",
-        "16149260",
-        "22154404",
-        "2741336",
-        "275174",
-        "7053341",
-        "8470855",
-        "8985925",
-        "9421806"
-      ],
-      "group_id": "14217506",
-      "id": "143805129061943210",
-      "name": "BerghBot",
-      "sender_id": "223826",
-      "sender_type": "bot",
-      "source_guid": "13762920170001332f6722000ba28866",
-      "system": false,
-      "text": "Fuck you too, Nick!",
-      "user_id": "223826"
     },
     {
       "attachments": [],
