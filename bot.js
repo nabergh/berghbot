@@ -13,7 +13,7 @@ function respond() {
     greeting = /(hi|hello|hey)\b.*bergh\s*bot/ig,
     fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
     gmail = /grant.*mail/ig,
-    faceswap = /face\s*swap\s*bergh\s*bot/ig;
+    faceswap = /bergh\s*bot\s*face\s*swap/ig;
 
   this.res.writeHead(200);
 
@@ -42,7 +42,7 @@ function respond() {
     }
     if (faceswap.test(request.text) && request["sender_id"] != "223826") {
       console.log("swapping last img");
-      swapper.swap();
+      swapper.getLatestImgUrl();
     }
   };
   this.res.end();
