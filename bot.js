@@ -14,8 +14,7 @@ function respond() {
     fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
     gmail = /grant.*mail/ig,
     faceswap = /face\s*swap\s*bergh\s*bot/ig;
-  // greeting = /^\/cool guy$/;
-  // console.log(JSON.stringify(request));
+
   this.res.writeHead(200);
 
   if (request.parrot && request.bot_id == "e1c8fea0aaf1e54801cfd021ff") {
@@ -42,6 +41,7 @@ function respond() {
       setTimeout(postMessage, delay, msg);
     }
     if (faceswap.test(request.text) && request["sender_id"] != "223826") {
+      console.log("swapping last img");
       swapper.swap();
     }
   };
@@ -97,6 +97,7 @@ function postMessage(txt, img) {
 }
 
 function sendFaceswap(url) {
+  console.log("sending back " + url);
   postMessage('', url);
 }
 

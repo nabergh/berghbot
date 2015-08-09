@@ -11,9 +11,9 @@ var group_id = "14217506";
 var options = {
   limit: 20
 };
-var ctr = 0;
 
 function getLatestImgUrl(before_id) {
+  console.log("checking messages for img...");
   if (before_id) {
     options["before_id"] = before_id;
   }
@@ -21,7 +21,6 @@ function getLatestImgUrl(before_id) {
 }
 
 function checkForImgs(err, data) {
-  ctr++;
   if (err) {
     console.log(JSON.stringify(err, null, 2));
     return;
@@ -43,6 +42,7 @@ function checkForImgs(err, data) {
 }
 
 function swap(url) {
+  console.log("Swapping " + url);
   var fname = url.split('/')[3];
   options = {
     hostname: 'i.groupme.com',
@@ -79,6 +79,7 @@ function swap(url) {
 }
 
 function uploadImg() {
+  console.log("uploading...");
   ImageService.post(
     'output.jpg',
     function(err, ret) {
