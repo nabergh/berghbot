@@ -28,7 +28,7 @@ var options = {
   limit: 100
 };
 
-function refreshMessages () {
+function refreshMessages() {
   messages = [];
   getMoreMessages(first_msg_id);
 }
@@ -82,33 +82,53 @@ function continueWork() {
     members[membersList[i]["user_id"]] = membersList[i];
   }
   for (var key in members) {
-    members[key].favorites = 0;
+    members[key].likes_earned = 0;
     members[key].total = 0;
     members[key].good = 0;
+    members[key].likes_given = 0;
     members[key].self_likes = 0;
     members[key].self_liked = [];
+    members[key].fans = {};
   }
   for (var i = 0; i < messages.length; i++) {
-    var member = members[messages[i]["sender_id"]];
-    if (member) {
-      var self = messages[i]["favorited_by"].indexOf(member["user_id"]);
+    var sender = members[messages[i]["sender_id"]];
+    if (sender) {
+      var self = messages[i]["favorited_by"].indexOf(sender["user_id"]);
       if (self > -1) {
         messages[i]["favorited_by"].splice(self, 1);
-        member.self_likes++;
-        member.self_liked.push(messages[i]["text"]);
+        sender.self_likes++;
+        sender.self_liked.push(messages[i]["text"]);
       }
       var numFavorites = messages[i]["favorited_by"].length;
-      member.favorites += numFavorites;
+      for (var j = 0; j < numFavorites; j++) {
+        members[messages[i]["favorited_by"][j]].likes_given++;
+        var fan = messages[i]["favorited_by"][j];
+        if (!sender.fans[fan]) {
+          sender.fans[fan] = 1;
+        } else {
+          sender.fans[fan]++;
+        }
+      }
+      sender.likes_earned += numFavorites;
       if (numFavorites > 0) {
-        member.good++;
+        sender.good++;
         rank(messages[i], numFavorites);
       }
-      member.total++;
+      sender.total++;
     }
   }
   for (var key in members) {
-    members[key].ratio = members[key].favorites / members[key].total;
+    members[key].ratio = members[key].likes_earned / members[key].total;
     members[key].goodRatio = members[key].good / members[key].total;
+    var fans = [];
+    for (var fan in members[key].fans) {
+      var percent = Math.floor(members[key].fans[fan] / members[fan].likes_given * 10000) / 100;
+      fans.push([members[fan].nickname, percent]);
+    };
+    fans.sort(function(a, b) {
+      return b[1] - a[1];
+    });
+    members[key].fans = fans;
   }
   console.log(JSON.stringify(members, null, 2));
   console.log(JSON.stringify({
@@ -237,5 +257,5 @@ var membersList = [{
   "autokicked": false
 }];
 
-// updateMessages();
-refreshMessages();
+updateMessages();
+// refreshMessages();

@@ -3,21 +3,6 @@
     {
       "attachments": [],
       "avatar_url": null,
-      "created_at": 1432821782,
-      "favorited_by": [],
-      "group_id": "14217506",
-      "id": "143282178214641284",
-      "name": "GroupMe",
-      "sender_id": "system",
-      "sender_type": "system",
-      "source_guid": "2d834430e770013277db22000b36179a",
-      "system": true,
-      "text": "Nicholas Bergh added Marlee to the group",
-      "user_id": "system"
-    },
-    {
-      "attachments": [],
-      "avatar_url": null,
       "created_at": 1432821795,
       "favorited_by": [],
       "group_id": "14217506",
@@ -29994,7 +29979,6 @@
         "22154404",
         "2741336",
         "275174",
-        "7053341",
         "8470855",
         "8985925",
         "9421806"
@@ -30361,7 +30345,6 @@
       "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
       "created_at": 1438051705,
       "favorited_by": [
-        "10929478",
         "12128866",
         "12334230",
         "16149260",
@@ -31784,7 +31767,8 @@
         "16149260",
         "22154404",
         "8470855",
-        "8985925"
+        "8985925",
+        "9421806"
       ],
       "group_id": "14217506",
       "id": "143813707081720043",
@@ -31818,6 +31802,7 @@
       "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
       "created_at": 1438137946,
       "favorited_by": [
+        "22154404",
         "275174",
         "8470855",
         "8985925"
@@ -31850,7 +31835,8 @@
       "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
       "created_at": 1438158001,
       "favorited_by": [
-        "10929478"
+        "10929478",
+        "22154404"
       ],
       "group_id": "14217506",
       "id": "143815800100240157",
@@ -31880,6 +31866,7 @@
       "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
       "created_at": 1438158154,
       "favorited_by": [
+        "22154404",
         "275174"
       ],
       "group_id": "14217506",
@@ -31912,6 +31899,7 @@
       "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
       "created_at": 1438158378,
       "favorited_by": [
+        "22154404",
         "275174"
       ],
       "group_id": "14217506",
@@ -31946,6 +31934,7 @@
       "favorited_by": [
         "10929478",
         "16149260",
+        "22154404",
         "8985925"
       ],
       "group_id": "14217506",
@@ -31964,6 +31953,7 @@
       "created_at": 1438158447,
       "favorited_by": [
         "16149260",
+        "22154404",
         "8985925"
       ],
       "group_id": "14217506",
@@ -31980,7 +31970,9 @@
       "attachments": [],
       "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
       "created_at": 1438158474,
-      "favorited_by": [],
+      "favorited_by": [
+        "22154404"
+      ],
       "group_id": "14217506",
       "id": "143815847418135548",
       "name": "Grant",
@@ -31995,7 +31987,9 @@
       "attachments": [],
       "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
       "created_at": 1438158488,
-      "favorited_by": [],
+      "favorited_by": [
+        "22154404"
+      ],
       "group_id": "14217506",
       "id": "143815848843433210",
       "name": "Grant",
@@ -32011,6 +32005,7 @@
       "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
       "created_at": 1438158553,
       "favorited_by": [
+        "22154404",
         "275174"
       ],
       "group_id": "14217506",
@@ -32093,8 +32088,10 @@
       "avatar_url": "http://i.groupme.com/638x640.jpeg.5bd19165c66b4d8a8bba4b4b40d0ad80",
       "created_at": 1438166911,
       "favorited_by": [
+        "22154404",
         "2741336",
-        "275174"
+        "275174",
+        "9421806"
       ],
       "group_id": "14217506",
       "id": "143816691154370043",
@@ -32111,7 +32108,8 @@
       "avatar_url": "http://i.groupme.com/638x640.jpeg.5bd19165c66b4d8a8bba4b4b40d0ad80",
       "created_at": 1438166929,
       "favorited_by": [
-        "10929478"
+        "10929478",
+        "22154404"
       ],
       "group_id": "14217506",
       "id": "143816692930783529",
@@ -32129,6 +32127,7 @@
       "created_at": 1438171454,
       "favorited_by": [
         "10929478",
+        "22154404",
         "2741336"
       ],
       "group_id": "14217506",
@@ -32147,6 +32146,7 @@
       "created_at": 1438180352,
       "favorited_by": [
         "16149260",
+        "22154404",
         "2741336",
         "8470855",
         "8985925"
@@ -32167,6 +32167,7 @@
       "created_at": 1438185811,
       "favorited_by": [
         "16149260",
+        "22154404",
         "275174",
         "8985925"
       ],
@@ -32184,7 +32185,9 @@
       "attachments": [],
       "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
       "created_at": 1438185838,
-      "favorited_by": [],
+      "favorited_by": [
+        "22154404"
+      ],
       "group_id": "14217506",
       "id": "143818583888916228",
       "name": "Max",
@@ -32201,6 +32204,7 @@
       "created_at": 1438185866,
       "favorited_by": [
         "16149260",
+        "22154404",
         "2741336",
         "275174",
         "8470855"
@@ -32214,6 +32218,6042 @@
       "system": false,
       "text": "Thank you and bless, it is the brainchild of my free time at my internship ",
       "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438217286,
+      "favorited_by": [
+        "12128866",
+        "12334230",
+        "16149260",
+        "22154404",
+        "275174",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143821728670580043",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "d4d2e65bc0d1466b914ec430ceb32d86",
+      "system": false,
+      "text": "I just ran some stats on all the messages in this group and found out that the person who has liked their own posts the most is.....Callen.  no surprises there",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438217403,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143821740377575540",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "66847C41-058A-48C1-9227-E57987222A5B",
+      "system": false,
+      "text": "  What a loser ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438217575,
+      "favorited_by": [
+        "16149260",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143821757559760172",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-fc5532b3-bf89-46da-b1dd-2b32f0f78263",
+      "system": false,
+      "text": "If only I could like your like",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438217651,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143821765121490157",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "E8148CD2-BDD9-45B7-86D4-93AF1DBE728D",
+      "system": false,
+      "text": "Hahahaha how in the world are you running stats on group me...and I'll be honest, everyone I like it it's cuz it's getting to double digits. Worth it.",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438217672,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143821767231667670",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "0B67CDA0-5E50-44DB-9834-425BD16A868E",
+      "system": false,
+      "text": "Flight was supposed to have left 25 minutes ago. Currently now leaving at 12:15am...",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/677c7290d36f013055df2234e932444f",
+      "created_at": 1438217713,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "275174",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143821771345815540",
+      "name": "Dani",
+      "sender_id": "9421806",
+      "sender_type": "user",
+      "source_guid": "6109E8A2-D6F2-4AC2-A931-33C6C672BD6F",
+      "system": false,
+      "text": "Oh so you could be with me and my cute friend drinking but noooooo",
+      "user_id": "9421806"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438217735,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143821773574893210",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "39F7AF6F-8CCB-4691-8F2C-D59D64686928",
+      "system": false,
+      "text": "😭😭😭😭",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438217741,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143821774164575548",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "5C27E79C-15EB-4D0E-8089-CC6D64339A55",
+      "system": false,
+      "text": "I wish Dani",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438217787,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143821778737180172",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "BB4DBAB3-74D2-4CB0-A090-7FCF6F044159",
+      "system": false,
+      "text": "This is all cuz I have a training in the morning at 9am, and have to prepare with my team\nFor our presentation in front of the board of directors for Friday ",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438217791,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143821779140177529",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "6B5F854B-20B5-4893-A6E3-4EA518A29A74",
+      "system": false,
+      "text": "I'm sorry!!!",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/677c7290d36f013055df2234e932444f",
+      "created_at": 1438217810,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143821781026326228",
+      "name": "Dani",
+      "sender_id": "9421806",
+      "sender_type": "user",
+      "source_guid": "7F79030D-74CF-4905-BC0B-AD744769CF50",
+      "system": false,
+      "text": "😭 I thought we bonded at gregs",
+      "user_id": "9421806"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438217933,
+      "favorited_by": [
+        "12334230",
+        "16149260",
+        "22154404",
+        "275174",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143821793335518595",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-6994d486-8ffd-4a86-902c-f943d6db7089",
+      "system": false,
+      "text": "And Callen, gerg has more double digit likes posts than you",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438218023,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "6915490",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143821802329655540",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "C0083F22-4CF4-4E87-8B05-D54859610246",
+      "system": false,
+      "text": "Suck it Softie! ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438218724,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143821872407998595",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-e479d4a5-4c21-433b-9bd5-b5ed8c672ec1",
+      "system": false,
+      "text": "The one who's posted the most is Grant. Also unsurprising. ",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438219677,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143821967705796228",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-c0c68f92-d783-442e-b610-e2c2701d8aa1",
+      "system": false,
+      "text": "And since you were curious I was using groupme's API and Javascript.",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438220705,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822070531833210",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "E2E6A0DC-D277-46AA-A51E-BB5884CB2265",
+      "system": false,
+      "text": "That's just not true ",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438220717,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822071796640157",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "F85F6048-1EE5-40E4-8F4C-24F6CA13EAEC",
+      "system": false,
+      "text": "Fucking garbage",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438220722,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822072259830043",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "3AC210E0-270A-4216-8A51-1E22E85235CF",
+      "system": false,
+      "text": "Pics or it didn't happen",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438220725,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822072505850157",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "C983063E-BA14-4F97-9D44-8EE5D0286EB8",
+      "system": false,
+      "text": "Hehe",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438220746,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822074633893210",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "1F1F8F9E-D601-46EE-94B7-5AB855755DED",
+      "system": false,
+      "text": "No I'm pretty sure I post the most...",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438220873,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "275174",
+        "6915490",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822087345765548",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "8D592E6F-478B-4C0E-B9C7-604E97C5C3ED",
+      "system": false,
+      "text": " ^but we don't need stats to figure that out lol",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438225292,
+      "favorited_by": [
+        "10929478",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822529297483210",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "A0BC1388-E46E-4B23-93F7-68ADE0A2C94E",
+      "system": false,
+      "text": "How's BerghBot doing in the stats? ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438226592,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822659222997806",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "8d7eacb759ca3bb2157b51408f3d47c4",
+      "system": false,
+      "text": "pretty well, he got 120 likes for the 2 days he was actually posting",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438226647,
+      "favorited_by": [
+        "22154404",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822664772197806",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "b53428b6197c1756b8b1189200d14d0b",
+      "system": false,
+      "text": "he also has the 9th highest rated post so far",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438226716,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822671625713529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "DB8F76F3-F8F1-45DE-81B0-10250B6CD785",
+      "system": false,
+      "text": "What's number 1?",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438226874,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "6915490",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822687461763210",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "3e65bcc0d6259ba5f83a4f5fb135ee36",
+      "system": false,
+      "text": "\"Had food poisoning on my second day back in the states #dontdrinkthewater \" by Gerg Bruns with 13 likes",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438227058,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822705830913529",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "12ACF3AC-C7EC-4EF4-AE21-EDF1774DE925",
+      "system": false,
+      "text": "Give us the Top 10",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438227065,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822706552400172",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "2334109C-B618-4FD5-8E3C-0E11FCCFD30F",
+      "system": false,
+      "text": "Haha these will be great ",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227438,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822743848326228",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "6dde7589a68bc87030df9562d5c2f628",
+      "system": false,
+      "text": "drum roll please",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227460,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822746073595540",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "98c1acc3b57ac96584de22454431771f",
+      "system": false,
+      "text": "#2 also by Gerg \"This is the smartest thing grant has ever done \"",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438227492,
+      "favorited_by": [
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822749237687529",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "9CF40030-AF19-426D-95A7-6C0ACA06CB0E",
+      "system": false,
+      "text": "It was in reference to him changing his name to berghbot ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227501,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822750163530172",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "cec246b80d5e365674505176b824d85a",
+      "system": false,
+      "text": "#3 by Dugan is this photo http://i.groupme.com/720x540.jpeg.59f95bbaed4742faab20c799e8583ee1",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438227513,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822751387098595",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "67EE0F33-3F41-4921-A4C7-A0F9A9F1F5A1",
+      "system": false,
+      "text": "Hell yeah!",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227562,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822756298258595",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "23710124748651173b34f150afd1d879",
+      "system": false,
+      "text": "with 11 likes",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227583,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "275174",
+        "6915490"
+      ],
+      "group_id": "14217506",
+      "id": "143822758333100157",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "c5dec7795b04d0226442850a4abe2916",
+      "system": false,
+      "text": "also with 11 likes is this classic by Callen tied at #3 http://i.groupme.com/640x1136.jpeg.f24439d8f42f4e71bc544a1b9a30afe9",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227627,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "275174",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143822762727325548",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "c02d57812476a31c9bc61d80d8ef83c8",
+      "system": false,
+      "text": "also tied at #3 is this one by me (and Dani) http://i.groupme.com/1632x918.png.4c575f5190644678ba9fd5e58bed80fb",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227691,
+      "favorited_by": [
+        "12128866",
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822769103900157",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "a344dd8229c7432a2490dd4a693b7a0e",
+      "system": false,
+      "text": "another one tied at #3 by Gerg http://i.groupme.com/552x369.jpeg.1df6a35cabaf4d41a4696e0f2ea9fe7e (directed at Grant)",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438227751,
+      "favorited_by": [
+        "22154404",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143822775166023529",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "D7D40527-2537-4BC2-B007-18194890EBC6",
+      "system": false,
+      "text": "I like this game ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438227761,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822776135995548",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "A35C5CD6-EA43-4316-B002-65F0CD00B33B",
+      "system": false,
+      "text": "I get points for shitting on Grant ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227780,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822778030828595",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "3ea5a18d62e4e16f4fa111dcde90498a",
+      "system": false,
+      "text": "dark horse JM also with 11 likes http://i.groupme.com/720x402.jpeg.096cda774e934b98bd0c4771ed2b5b49",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438227878,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822787803687670",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "1C625807-66D2-42A7-95CA-F2009800724D",
+      "system": false,
+      "text": "I technically am responsible for these. So I'll take #2 and #3. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438227927,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822792727773529",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "61585ed93a5d02af9d95093414a450b5",
+      "system": false,
+      "text": "another one with 11 by me, caption \"I love lamp\" http://i.groupme.com/747x1328.png.50db05793786499e9752ccc74e916ef4",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438227969,
+      "favorited_by": [
+        "10929478",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822796909367670",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "B0F5DED6-40F5-4F53-BD33-6CEB64753486",
+      "system": false,
+      "text": "Hahahaha nick Loves lamp ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228014,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822801428467529",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "cd56be165996c0d68410afd49026596c",
+      "system": false,
+      "text": "#9 is by Berghbot with 10 likes.  It says \"Fuck you too, Nick!\".... yep",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/252x263.jpeg.07c0f72a50834342870120582384188c",
+      "created_at": 1438228015,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "16149260",
+        "22154404",
+        "275174",
+        "6915490",
+        "7053341",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143822801521186228",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "8b86f0c0189b01338d2c22000b90861d",
+      "system": false,
+      "text": "Fuck you too, Nick!",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228019,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "6915490",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143822801927128595",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "fe1d6cebb8e5b023a5d0b4ec2fa791b9",
+      "system": false,
+      "text": "damnit",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228043,
+      "favorited_by": [
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822804333886228",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "93622ec3f5fbde246c390e899f166563",
+      "system": false,
+      "text": "thanks for reminding me Berghbot",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228067,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822806721383210",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "0bde2d63aad20439983ac527af382330",
+      "system": false,
+      "text": "#10 is also by Berghbot and it says.......\"Shut up, Grant\"",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228090,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822809051515540",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "EC81FA0C-0DE8-4644-AE3B-47DA3CC692D9",
+      "system": false,
+      "text": "Sweet. I'm winning by proxy! ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228114,
+      "favorited_by": [
+        "10929478",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822811474627670",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "14EFB2FF-2AB0-409D-89F5-FBAB0D8CA9AA",
+      "system": false,
+      "text": "Or by losing? Idk. \nI'm just glad to be involved...",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228132,
+      "favorited_by": [
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143822813272513210",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "d60b30fa20682d108c1911091a799b99",
+      "system": false,
+      "text": "losing",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228143,
+      "favorited_by": [
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822814371280043",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "6b5ace7cbeea763ca5f7848eca144289",
+      "system": false,
+      "text": "definitely losing.  I ran the numbers every which way and they all say you're losing",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [
+        {
+          "source_url": "http://i.groupme.com/400x300.jpeg.fe5a3b57c1564b60af3b43f091c4964f",
+          "type": "image",
+          "url": "http://i.groupme.com/640x480.jpeg.8c2a9941fc18461c86d874f38ccae34e"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438228158,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "7053341",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822815848480172",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "13F26E64-7DED-4C89-82DB-80B0049198B1",
+      "system": false,
+      "text": null,
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228175,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822817578920043",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "6d417f2e10e4c5da724f701988583099",
+      "system": false,
+      "text": "yeah that's gonna be it's new avatar",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228205,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822820558426228",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "0DE3EE9B-B923-4067-B274-1E09C42D2B88",
+      "system": false,
+      "text": "Idk I almost broke groupme and BerghBot",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228271,
+      "favorited_by": [
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822827116745540",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "fefdd669a3e1bb098b1a1f00e5c9d8cd",
+      "system": false,
+      "text": "I'm gonna blame groupme on that one.  Why would groupme send the bot messages the bot already sent?  It knows what it sent.  It just sent it.",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438228297,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143822829714173210",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "68628A15-5EBB-4AFB-990A-1C41D67A4D44",
+      "system": false,
+      "text": "Now my question is what 3 people could possibly not have liked that food poisoning comment?",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438228362,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822836281846228",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "7E79C244-C737-48D9-BC57-68810DDC5C63",
+      "system": false,
+      "text": "Bc the bot is sending it to an infinite number of different berghbots 0.o ~~~~~*~~*~",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438228373,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822837351363529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "E6E03448-827C-4D35-9D69-BC2A6E1FE4C8",
+      "system": false,
+      "text": "guys, I'm kinda worried about vlad. he hasn't posted in weeks... you guys think he's alright??",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438228383,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "22154404",
+        "275174",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143822838370127529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "616166E4-77EE-4D67-8AB2-A3BE017C0F0A",
+      "system": false,
+      "text": "should we put out an amber alert?",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228413,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822841377317806",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "5264DCE7-211D-4C08-B545-74249349E72E",
+      "system": false,
+      "text": "I'll draw you a diagram later Nick. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/252x263.jpeg.07c0f72a50834342870120582384188c",
+      "created_at": 1438228414,
+      "favorited_by": [
+        "10929478",
+        "12334230",
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822841469557529",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "79a35190189c01331f3622000b888989",
+      "system": false,
+      "text": "Shut up, Grant",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228442,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822844212573529",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "40be767149deb024ce3cf9d8cc581b01",
+      "system": false,
+      "text": "The answer to your question Talia is: Greg (because I don't count self-likes), Vlad (because he has this group muted), and Cassidy (why, Cassidy?)",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228446,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822844646275540",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "30714A23-50E2-45E5-B90D-BAAE4309021A",
+      "system": false,
+      "text": "Hey fuck you BerghBot! Before I crash you again with my superior human logic",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/252x263.jpeg.07c0f72a50834342870120582384188c",
+      "created_at": 1438228447,
+      "favorited_by": [
+        "22154404",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822844750137806",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "8d311580189c013377e422000b36179a",
+      "system": false,
+      "text": "Hi Grant! (⊙ω⊙)",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/252x263.jpeg.07c0f72a50834342870120582384188c",
+      "created_at": 1438228447,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822844750296228",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "8d315350189c01338d2c22000b90861d",
+      "system": false,
+      "text": "Fuck you too, Grant!",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438228484,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822848410447806",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "898BDBDE-1C0B-4914-9643-187EA0630439",
+      "system": false,
+      "text": "Vlad has the group muted haha ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/640x1136.jpeg.0802a7c5d56b41e983b36c614a8130fa"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438228493,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822849319708595",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "D4365DAC-4B39-456B-9D5D-32FB182EC523",
+      "system": false,
+      "text": null,
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438228513,
+      "favorited_by": [
+        "10929478",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822851373013210",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "028D76E1-0344-4873-A1FA-D947119BA550",
+      "system": false,
+      "text": "Nick beat me to it. My bad ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228516,
+      "favorited_by": [
+        "10929478",
+        "275174",
+        "6915490",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822851629305540",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "43CB06A3-640B-4373-A5C8-254D60B2CE1A",
+      "system": false,
+      "text": "Total Swiss move. Just gonna back away from all this conflict. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438228606,
+      "favorited_by": [
+        "10929478",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143822860698663529",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "0F094547-8A4C-4A48-8DAD-D00979BF6A22",
+      "system": false,
+      "text": "Why isn't berghbot a member?!",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438228658,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143822865848773529",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "bb5b4202c4ff70065333ca8f8061c43b",
+      "system": false,
+      "text": "yeah bots are second class citizens pretty much everywhere....",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438228680,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143822868095527806",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "600ABE02-2749-48AD-B2E2-2691860DBB19",
+      "system": false,
+      "text": "As they should be!!! ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438230589,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823058958745548",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "029717ec8525bcb073cf7f0b507512c1",
+      "system": false,
+      "text": "berghbot will remember this grant",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438231215,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143823121550110043",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "855875E1-A5B5-406F-88E7-4F5F8C1FFB86",
+      "system": false,
+      "text": "No it won't. Because it's incapable of remembering anything other than a response to hey and fuck you. It's a soulless collection of ones and zeros that you've named and put a cat picture over. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438231321,
+      "favorited_by": [
+        "12128866",
+        "12334230",
+        "16149260",
+        "22154404",
+        "2741336",
+        "275174",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823132174637670",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-1e679533-e7ba-4cd2-b774-7c0c7b81b2de",
+      "system": false,
+      "text": "Only because I haven't written the neural network yet. My next project is to train it on all our messages and have it simulate responses from individual members. ",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438231400,
+      "favorited_by": [
+        "2741336",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823140067710043",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-0d1b069c-5247-47ec-9a65-6d076f99deb2",
+      "system": false,
+      "text": "Although I will admit I can't program a soul",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438231882,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143823188221980157",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "62F545B7-BA7D-4179-A49C-0EDB0107C809",
+      "system": false,
+      "text": "😨😰",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438231901,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143823190184626228",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "AB55C003-7951-4714-A85B-F9CFC8025429",
+      "system": false,
+      "text": "This must be stopped. You've gone to far. You can't play God Nick....",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438231952,
+      "favorited_by": [
+        "10929478"
+      ],
+      "group_id": "14217506",
+      "id": "143823195234157529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "45A8050C-7F32-4192-825D-9D5820929001",
+      "system": false,
+      "text": "I'm rallying the townspeople...\nWhen this abomination surfaces it's ugly head I'll be ready w pitchforks and torches.\nhttp://youtu.be/qLvGnro4Cgw",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.87b6a6acc1f94a07879188ea2ba43a05"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438231970,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823197061940172",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "B6FA4B87-ED62-45D5-9766-6D3F2EA511E7",
+      "system": false,
+      "text": null,
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [
+        {
+          "loci": [
+            [
+              20,
+              5
+            ],
+            [
+              40,
+              13
+            ]
+          ],
+          "type": "mentions",
+          "user_ids": [
+            "9421806",
+            "22154404"
+          ]
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438237556,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143823755629375540",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "834290BC-B805-4954-A90F-F372FD135A7A",
+      "system": false,
+      "text": "Austin is the Salt. @Dani The line. And @Aubrey Purdy is the Dime! Yay!",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438239055,
+      "favorited_by": [
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143823905522740157",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "6C385E0B-5296-4D82-A13C-23EA0EE1BEF4",
+      "system": false,
+      "text": "Why is dani the lime?! Haha ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438239110,
+      "favorited_by": [
+        "10929478",
+        "275174",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823911023833529",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "F48E5204-D5D8-4DB0-BCE1-7F403026950F",
+      "system": false,
+      "text": "\"I am the salt. I'm salty AF towards everyone.\" -Austin ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438239379,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143823937939920172",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "CA5E0F31-BBC9-4C54-BAB6-00BCD8EB786D",
+      "system": false,
+      "text": "Hi BerghBot! ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438239380,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823938085938595",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "01fb201018b6013340c722000b608896",
+      "system": false,
+      "text": "Hi Aubrey Purdy! ᶘ ᵒᴥᵒᶅ",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.c55f6fa4a86948b79fdeec38b8178cc6",
+      "created_at": 1438239473,
+      "favorited_by": [
+        "10929478",
+        "12334230",
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143823947388273210",
+      "name": "Cassidy",
+      "sender_id": "27529904",
+      "sender_type": "user",
+      "source_guid": "6C1EEB81-9478-4707-90C1-ACBDEE79B0D5",
+      "system": false,
+      "text": "to answer nick's question from earlier as to why I didn't like that post... it's probably cause I work all the time and I come back to usually a few hundred messages and don't always read them ",
+      "user_id": "27529904"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438239502,
+      "favorited_by": [
+        "27529904"
+      ],
+      "group_id": "14217506",
+      "id": "143823950234543529",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "BD49F7A1-4BB0-4943-AD62-1AB4D967C215",
+      "system": false,
+      "text": "Story of my life^^^",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438263357,
+      "favorited_by": [
+        "12128866",
+        "16149260",
+        "22154404",
+        "27529904",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143826335754597670",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "62c856be54d1afab54cf3b46b369dd6c",
+      "system": false,
+      "text": "what? you mean you don't have a job where you can compulsively check groupme every few minutes instead of actually working? crazy",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438281753,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143828175334093210",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "FCC277D1-AE2F-4BB2-AE3D-01C2E3443C61",
+      "system": false,
+      "text": "This is my job....",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.0c23bfc9c2c44104ab79ac9d83ba9489"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e557e399814e4e21a60c58d5dd82538d",
+      "created_at": 1438286497,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "7053341",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143828649701166228",
+      "name": "Ryann",
+      "sender_id": "12334230",
+      "sender_type": "user",
+      "source_guid": "8A52EDCD-F542-43B1-875A-0D2EE6F33F41",
+      "system": false,
+      "text": "My brother borrowed my computer for 10 minutes and when I walked in to get it back, he had done this...",
+      "user_id": "12334230"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438286531,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "6915490",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143828653153617529",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "5BF3E605-2DF4-4387-ABCE-6983F12E9844",
+      "system": false,
+      "text": "I don't know if I love your brother or of I'm terrified of him ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438311226,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "275174",
+        "27529904",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143831122665053529",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "2B9631AF-7A9F-44EB-8FF5-196FC39EC306",
+      "system": false,
+      "text": "You guys this kid at my camp uses and is spreading the word dingus and he freakin awesome. Also he's small so one of the group leaders picked him up and carried him to another one and said \"dingus delivery\" and the response was \"I don't want him, plz return him to the dingus store\". Thought you'd all enjoy haha",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [
+        {
+          "loci": [
+            [
+              69,
+              5
+            ]
+          ],
+          "type": "mentions",
+          "user_ids": [
+            "12128866"
+          ]
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438347210,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143834721085735540",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "BE6B047A-0C8B-405A-927F-E309835B1FD5",
+      "system": false,
+      "text": "Wow....I'm dangerously close to bald in that picture....must be what @Ceej felt like at age 10",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [
+        {
+          "loci": [
+            [
+              77,
+              22
+            ]
+          ],
+          "type": "mentions",
+          "user_ids": [
+            "6915490"
+          ]
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438347748,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143834774807347806",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "5A928997-D0C8-4A6D-B4D4-5E13A215C04B",
+      "system": false,
+      "text": "Yeah, except I've conned the whole world into buying my hairline, while you, @Slightly Hardened Cal , continue to stubbornly grovel in your barren hideousness. Who's the real winner? You decide ",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-07-31T15:25:48Z/397c1d9f.568x320r90.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-07-31T15:25:48Z/397c1d9f.568x320r90.mp4"
+        }
+      ],
+      "avatar_url": null,
+      "created_at": 1438356359,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "22154404",
+        "275174",
+        "7053341",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143835635936923210",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "277C2218-6CCC-4F83-8AB9-FD5F47D5E0D0",
+      "system": false,
+      "text": "https://v.groupme.com/14217506/2015-07-31T15:25:48Z/397c1d9f.568x320r90.mp4",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-07-31T15:26:25Z/500ef413.568x320r90.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-07-31T15:26:25Z/500ef413.568x320r90.mp4"
+        }
+      ],
+      "avatar_url": null,
+      "created_at": 1438356396,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "22154404",
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143835639646750172",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "D5E6122A-ADEB-4119-B1BB-2C8F9C0D975E",
+      "system": false,
+      "text": "https://v.groupme.com/14217506/2015-07-31T15:26:25Z/500ef413.568x320r90.mp4",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x404.jpeg.f31caace72c144948f539d12658cde3a"
+        }
+      ],
+      "avatar_url": null,
+      "created_at": 1438356414,
+      "favorited_by": [
+        "12128866",
+        "12822125",
+        "22154404",
+        "2741336",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143835641427467670",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "71D8CC41-65EB-4FEA-ACCE-C08D9506F789",
+      "system": false,
+      "text": null,
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438358827,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143835882775550172",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "3D685399-3741-49C5-B05E-8303051FA10A",
+      "system": false,
+      "text": "LOLL I miss nicks dance moves",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438358886,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143835888634680043",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "4C44A1FA-62E0-4DC8-B079-BA73FF5F49EE",
+      "system": false,
+      "text": "Hey Greg here's a clip from the video that I've  been working on all night...Bagan!!!!",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-07-31T16:08:34Z/3d13644b.480x480r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-07-31T16:08:34Z/3d13644b.480x480r.mp4"
+        }
+      ],
+      "avatar_url": null,
+      "created_at": 1438358925,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "275174",
+        "7053341",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143835892554596228",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "F2E5EF9B-CFEE-4F5F-9EE4-AA8C24766B40",
+      "system": false,
+      "text": "https://v.groupme.com/14217506/2015-07-31T16:08:34Z/3d13644b.480x480r.mp4",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438361442,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143836144205565540",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "E65602F2-DA94-47F6-9CFD-C439604BFAF0",
+      "system": false,
+      "text": "ahhh I want to see more!!! ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438361490,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143836149007097806",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "4A8E8B2E-27BC-4E2D-A949-1A91E5AAB139",
+      "system": false,
+      "text": "I'll be throwing up a little Mauritius teaser soon!",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438363954,
+      "favorited_by": [
+        "12128866",
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143836395467880172",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "8042431de7bfe088ea3144d38518d33f",
+      "system": false,
+      "text": "\"I'll be throwing up a little\" almost made me throw up a little",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438367241,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143836724160075548",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "422FC9CE-1176-4B09-A2A8-B583D2886FEB",
+      "system": false,
+      "text": "Still accurate of the Mauritius experience. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-07-31T18:44:07Z/e78e20c.568x320r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-07-31T18:44:07Z/e78e20c.568x320r.mp4"
+        }
+      ],
+      "avatar_url": null,
+      "created_at": 1438368262,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143836826265630172",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "7B30983A-FCA3-40B5-815B-80DEA0EF5760",
+      "system": false,
+      "text": "Another sneak peak!...I plan to spend another all nighterd getting the video done:/ https://v.groupme.com/14217506/2015-07-31T18:44:07Z/e78e20c.568x320r.mp4",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438368474,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143836847422850172",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "A2BC0F57-5573-427F-B608-3F68513CF899",
+      "system": false,
+      "text": "Woaaa",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438371431,
+      "favorited_by": [
+        "12128866",
+        "12334230",
+        "16149260",
+        "22154404",
+        "2741336",
+        "275174",
+        "27529904",
+        "7053341",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143837143121653529",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "ff45cd377ddc74fd9556cf23bc1f884e",
+      "system": false,
+      "text": "I mean you practically live off caffeine pills and red bull so isn't every night an all-nighter for you JM?",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438371670,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143837167038280157",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "E2D43290-2F98-43CA-8826-467E34F7C113",
+      "system": false,
+      "text": "What can I say, red bull gives you wings!",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x540.jpeg.90ecc118e1c040c4936d0e6b7d8a1f9c"
+        }
+      ],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438388790,
+      "favorited_by": [
+        "10929478",
+        "12334230",
+        "16149260",
+        "22154404",
+        "2741336",
+        "27529904",
+        "6915490",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143838879075043210",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "8CAF3CED-D119-4DBC-B251-E6BF3F2F83D5",
+      "system": false,
+      "text": "imma win one of these for you grant",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438392404,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143839240419643529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "5F17AB3D-49E2-4BC7-AADD-9FD9379BAFCE",
+      "system": false,
+      "text": "dani, what's your phone number?",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/677c7290d36f013055df2234e932444f",
+      "created_at": 1438392432,
+      "favorited_by": [
+        "16149260",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143839243257267806",
+      "name": "Dani",
+      "sender_id": "9421806",
+      "sender_type": "user",
+      "source_guid": "8C2CEDDF-E015-444E-AA91-C66997A11825",
+      "system": false,
+      "text": "9083288768",
+      "user_id": "9421806"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438392447,
+      "favorited_by": [
+        "10929478",
+        "2741336",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143839244703585548",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "FA31A56F-51DE-4591-8D41-C58903D57BCA",
+      "system": false,
+      "text": "thanks!",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438393208,
+      "favorited_by": [
+        "12822125",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143839320870873210",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "48D5742C-FB24-4E61-B8D3-9ABCD2E08E00",
+      "system": false,
+      "text": "max, why did you like that?^",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438393271,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143839327172215548",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "EEC7745D-2260-4400-9AFF-7F50F19DB88A",
+      "system": false,
+      "text": "Just for fun I guess",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438393284,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143839328420325548",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "F581DB3F-2BB9-4942-B0E3-B610A3730AB9",
+      "system": false,
+      "text": "lol, alright",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402104,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840210413493210",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "7B778197-820D-4F3A-8E35-9B067D5AE4DA",
+      "system": false,
+      "text": " Dugan where are you? ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402115,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840211525260172",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "D47E2BF5-4CAC-4282-858C-B9957E285AE4",
+      "system": false,
+      "text": "Is that a fair? Or some other amusement park? ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402137,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840213759060157",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "469E9AC1-B830-418B-B9CE-F33A2233A8FC",
+      "system": false,
+      "text": "it's holiday world grant ",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402149,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840214904355540",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "C0AB799A-3D6C-41F4-B043-378C466B60C9",
+      "system": false,
+      "text": "you should know all the prizes they have there",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [
+        {
+          "source_url": "http://i.groupme.com/3264x2448.jpeg.e62ec02006f141c099937cc521c8768a",
+          "type": "image",
+          "url": "http://i.groupme.com/640x852.jpeg.71456e02f7d845e8a8ad23a3e446b192"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402190,
+      "favorited_by": [
+        "10929478",
+        "7053341",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143840219020547806",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "F41A19BD-CF5E-43F4-AFB9-BCDAB209E71A",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402191,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840219116665540",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "942AEDFD-2028-4307-8579-31D630DE53E5",
+      "system": false,
+      "text": "I already have one thanks",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402237,
+      "favorited_by": [
+        "22154404",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143840223799283529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "64D53DE5-877A-480A-A26B-7A10D5D92BF2",
+      "system": false,
+      "text": "well imma win you another",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402243,
+      "favorited_by": [
+        "22154404",
+        "2741336",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143840224301673529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "23F58A6B-A438-40FE-8BD5-ADD4109E018A",
+      "system": false,
+      "text": "so deal wit it",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402312,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840231207506228",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "C6FA42AD-7FFA-4FE8-AD28-A9B6CFEFE032",
+      "system": false,
+      "text": "Are they life-sized? 😒",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402320,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840232019365548",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "4A22FB81-B3DA-4CDD-B6FF-BAC31A4D8B29",
+      "system": false,
+      "text": "yup",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402342,
+      "favorited_by": [
+        "22154404",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143840234265230172",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "C360FC26-F616-4617-A281-BF739541C16A",
+      "system": false,
+      "text": "and thanks Bree and max for liking my posts",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402354,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840235415753529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "71840863-EF0F-45D2-80AC-90D90F92F6DF",
+      "system": false,
+      "text": "I'm gonna need to see a guarantee of authenticity ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/1080x1440.jpeg.1a25b1f9202340219ad0203e9e1419aa"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402361,
+      "favorited_by": [
+        "22154404",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143840236112707529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "E0F16DDD-365D-4C99-BBA5-38FE3929B9C0",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438402412,
+      "favorited_by": [
+        "22154404",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143840241206660043",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-2547d5da-ed10-493e-a475-1a7bf00b12cf",
+      "system": false,
+      "text": "Pikachu is supposed to be 1 foot tall. I think Pukachu is life size ",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438402430,
+      "favorited_by": [
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143840243050690157",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "3602ED3C-C473-40A0-8C8F-C9C761A3B551",
+      "system": false,
+      "text": "will when my pikachu destroys your Pokemon in a battle work as a degree as authenticity?",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402468,
+      "favorited_by": [
+        "10929478",
+        "12334230",
+        "12822125",
+        "22154404",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143840246835237529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "2387B586-A7B9-4BE9-96EC-34EAD193DB7E",
+      "system": false,
+      "text": "Bottom line: If it's not covered in JMs bodily fluids, I don't want it. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438402469,
+      "favorited_by": [
+        "10929478",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143840246924830157",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "ba3c61d01a31013392b922000b698e88",
+      "system": false,
+      "text": "Shut up, Grant",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402489,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840248920898595",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "089BB433-5265-4651-809A-8E06448CC0AF",
+      "system": false,
+      "text": "Fuck you BerghBot!!!! ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438402490,
+      "favorited_by": [
+        "10929478",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143840249008270157",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "c6a776701a31013392b922000b698e88",
+      "system": false,
+      "text": "Fuck you too, Grant!",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438402519,
+      "favorited_by": [
+        "10929478"
+      ],
+      "group_id": "14217506",
+      "id": "143840251936957670",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "31937AFD-E8EC-4899-AF14-0B177886BAD8",
+      "system": false,
+      "text": "Btw I just watched that episode of Rick and Morty. \"Where are my testicles Summer? I had them and they are gone. Where are they?\" ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438408498,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143840849819937529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "4B9B3B90-6B42-412A-A650-44E5A4E944D5",
+      "system": false,
+      "text": "Also just got the Cronenberg reference... \"The Fly\" \"Scanners\" \"Videodrome.\" Hilarious. Damn this show is witty ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438410180,
+      "favorited_by": [
+        "12128866"
+      ],
+      "group_id": "14217506",
+      "id": "143841018037940157",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "2CB77FC9-9C67-4D9C-AD4C-E8153E41C581",
+      "system": false,
+      "text": "Marlee...Im convinced you're a gazorpozorpian lost on this planet. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "source_url": "http://i.groupme.com/640x1136.jpeg.3fbfd015859d4899b6283e16f028c63c",
+          "type": "image",
+          "url": "http://i.groupme.com/640x1136.jpeg.0ae687b9dd5d49efa06a124d8d9fe44a"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438435655,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "16149260",
+        "22154404",
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143843565563163529",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "4858846A-445F-4058-9FF0-62E202CDB946",
+      "system": false,
+      "text": null,
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443096,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143844309614767806",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "D2B09C3C-80FF-4A84-BE6A-634D83343AE7",
+      "system": false,
+      "text": "I now present: CJ drunk performing, a miniseries. ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-01T15:31:55Z/799f06d7.480x268r90.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-01T15:31:55Z/799f06d7.480x268r90.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443125,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "22154404",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143844312589458595",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "29144DBA-C165-4FC3-A72A-585C3904BA48",
+      "system": false,
+      "text": "First on the drums.  https://v.groupme.com/14217506/2015-08-01T15:31:55Z/799f06d7.480x268r90.mp4",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-01T15:32:15Z/7fce1a56.268x480r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-01T15:32:15Z/7fce1a56.268x480r.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443146,
+      "favorited_by": [
+        "12128866",
+        "12822125",
+        "13066463",
+        "16149260",
+        "22154404",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143844314699317806",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "E9B85477-BC74-4C0D-B011-17074A8C58F0",
+      "system": false,
+      "text": "Singing his heart out  https://v.groupme.com/14217506/2015-08-01T15:32:15Z/7fce1a56.268x480r.mp4",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-01T15:32:43Z/65c4b93e.268x480r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-01T15:32:43Z/65c4b93e.268x480r.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443174,
+      "favorited_by": [
+        "12128866",
+        "13066463",
+        "16149260",
+        "22154404",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143844317442393210",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "289BAFD9-2E2B-4664-8A79-7F1F0A10D520",
+      "system": false,
+      "text": "Getting his dancing count from a friend  https://v.groupme.com/14217506/2015-08-01T15:32:43Z/65c4b93e.268x480r.mp4",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-01T15:32:59Z/58762b43.268x480r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-01T15:32:59Z/58762b43.268x480r.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443190,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "8470855",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143844319088027529",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "1730F499-4626-4DFF-985E-0470B91172D7",
+      "system": false,
+      "text": "The dancing escalates https://v.groupme.com/14217506/2015-08-01T15:32:59Z/58762b43.268x480r.mp4",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-01T15:33:23Z/4b75049e.268x480r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-01T15:33:23Z/4b75049e.268x480r.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443215,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143844321505007670",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "67839944-3C37-47C5-935F-BD2153E6A7E2",
+      "system": false,
+      "text": "The fence kick though  https://v.groupme.com/14217506/2015-08-01T15:33:23Z/4b75049e.268x480r.mp4",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-01T15:33:54Z/5de6d9ee.268x480r.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-01T15:33:54Z/5de6d9ee.268x480r.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438443245,
+      "favorited_by": [
+        "12128866",
+        "16149260",
+        "22154404",
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143844324576908595",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "57447AA9-D3EA-449C-A76F-F2227F795154",
+      "system": false,
+      "text": "He has announced the band he is starting this fall with his honors college friends titled \"The Earth Cadets\" https://v.groupme.com/14217506/2015-08-01T15:33:54Z/5de6d9ee.268x480r.mp4",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/768x1024.png.868f9f67109749f1a67de456ad30231a"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438465702,
+      "favorited_by": [
+        "12128866",
+        "12334230",
+        "22154404",
+        "2741336",
+        "275174",
+        "6915490",
+        "7053341",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143846570221420043",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-6f90357d-dc91-4150-adbf-29e289ef0ff2",
+      "system": false,
+      "text": "My family was inspired by the toilet seats in Japan. The Bergh family will now have the cleanest butts in the neighborhood!",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438468652,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143846865211548595",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "031C84C6-1E0D-48A1-8779-AF70973FB051",
+      "system": false,
+      "text": "I'm afraid to go to your place now!! Those seats are evil",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438472912,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "22154404",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143847291229800157",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "BF72658E-E223-4508-B0A6-034DF18FC2DD",
+      "system": false,
+      "text": "YES nick. I will admit though at first glance I thought I was some weird toilet seat w a bag underneath...pleasantly surprised to find that's not what it was 👍",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438480152,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143848015224610172",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "98A65EAC-5C0C-4385-9706-4F592FABFC1A",
+      "system": false,
+      "text": "In-fucking-credible",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438535991,
+      "favorited_by": [
+        "10929478",
+        "275174",
+        "6915490"
+      ],
+      "group_id": "14217506",
+      "id": "143853599188273529",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "7A6FE047-8159-4CB1-ADD5-3051CD7C620A",
+      "system": false,
+      "text": "AH-rugala",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438561233,
+      "favorited_by": [
+        "12128866"
+      ],
+      "group_id": "14217506",
+      "id": "143856123378656228",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "F90DD7EE-ED3F-48E6-8FB8-454CC4615693",
+      "system": false,
+      "text": "COUNT-Drahcula",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438643328,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143864332894223210",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "8A1D1421-710E-4F1B-AE4D-1E94BD2E7E98",
+      "system": false,
+      "text": "I was already wondering why this chat was so quiet, then I realized I muted it so I could fall asleep 😂",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438643348,
+      "favorited_by": [
+        "12128866",
+        "16149260",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143864334832165540",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "7AA9DFF9-03D8-4D58-B7DE-D443846E9D94",
+      "system": false,
+      "text": "had a cruel day of missing SAS :(",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438643369,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143864336931736228",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "C56BE014-BCDE-4A84-B5F4-DAA5AD8B3E1A",
+      "system": false,
+      "text": "hope you guys are having a good time in the country of freedom",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438643369,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143864336987065548",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "C40A68A0-7651-49A5-88C0-0D3F168DB3A7",
+      "system": false,
+      "text": "That and I've taken a groupme break. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438643415,
+      "favorited_by": [
+        "10929478",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143864341568630172",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "27265904-C695-49BE-AAE3-E864B2F8576F",
+      "system": false,
+      "text": "Dawwwww...miss you too you Swedish Hip Hop star! That's the sweetest thing I've heard all day. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438643418,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143864341884378595",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "3168207C-6C74-4B2F-AA04-4AFDDBA3CA2C",
+      "system": false,
+      "text": "😊",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438643607,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "16149260",
+        "22154404",
+        "2741336",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143864360716465540",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "C82335D3-86F1-47F1-80D9-BB88841997FD",
+      "system": false,
+      "text": "VLADDDDD",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438643612,
+      "favorited_by": [
+        "12334230",
+        "16149260",
+        "22154404",
+        "2741336",
+        "27529955",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143864361288243210",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "C45964E5-BCA5-4DA7-A84C-57AAB4CA27CB",
+      "system": false,
+      "text": "YOURE ALIVE",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438643653,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "22154404",
+        "2741336",
+        "6915490",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143864365392526228",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "07854097-6BA4-4F1C-9059-148FC0055440",
+      "system": false,
+      "text": "everything you've missed is 100 % worth reading",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438643763,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "7053341",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143864376391637529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "D98BC616-36A8-4292-9556-A8A06F6785E6",
+      "system": false,
+      "text": "It may take you a few days (sorry, mostly my bad) but worth it! ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438686478,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143868647851177670",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "B7BB1E16-3517-4685-B887-8884F9DC140A",
+      "system": false,
+      "text": "Haha this chat never fails to make me laugh.. Guess I'll read some of the spam 😏",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438696389,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "2741336",
+        "6915490"
+      ],
+      "group_id": "14217506",
+      "id": "143869638976548595",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "F1E13BD7-9836-499E-A34C-9201B00A1D11",
+      "system": false,
+      "text": "Has anyone else noticed that Grant has shared 9 FaceBook posts in the past 24 hours? We need a BerghBot for FaceBook please. ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438709437,
+      "favorited_by": [
+        "10929478",
+        "12128866"
+      ],
+      "group_id": "14217506",
+      "id": "143870943708690172",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "6F36F881-744A-492D-968A-37A7DA9D90EE",
+      "system": false,
+      "text": "Guys just wanted to let you know that I'm working on starting my first company, tentatively called Imagine Games.  If anyone knows anyone in mobile gaming (we hope to create an MMORPG for iOS and android), let me know!  And if you guys want to help out in any side roles that's cool too.",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438709492,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143870949215623529",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "9D779BB1-546D-47E5-9654-28FA6A8D8466",
+      "system": false,
+      "text": "You know I'm always interested in side roles ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438709578,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143870957844737529",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "7E953A28-8BCB-45A3-B409-AD4E08A77F9A",
+      "system": false,
+      "text": "Perfect, I'll loop you in on anything we have that we could collaborate on remotely.  Mostly drafting business plans and building a team now, looking to incorporate sometime this month (ideally).",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438712956,
+      "favorited_by": [
+        "16149260"
+      ],
+      "group_id": "14217506",
+      "id": "143871295676767670",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "435BB55E-5989-438A-9742-5FBC01D1586F",
+      "system": false,
+      "text": "As long as we're sharing, I'll just plug that I've started a band called Moby Sick, if you could simply start by liking us on Facebook and or following us on Spotify, that'd be huge!",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438713056,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871305662227806",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "053f992fada3582ea7898b20b5d712a8",
+      "system": false,
+      "text": "link for spotify?",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438713081,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871308148857529",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "73955897-D4A9-45AE-8547-B3D1DCE6E29A",
+      "system": false,
+      "text": " One sec",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438713914,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871391431017806",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "7825be6c7b753ea94495474303a895cb",
+      "system": false,
+      "text": "https://play.spotify.com/user/mobysick",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438713919,
+      "favorited_by": [
+        "10929478"
+      ],
+      "group_id": "14217506",
+      "id": "143871391923295540",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "e03ba48f0d221de2a6b941b62e12c9d0",
+      "system": false,
+      "text": "Let me know if that works",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438717435,
+      "favorited_by": [
+        "10929478"
+      ],
+      "group_id": "14217506",
+      "id": "143871743510030157",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "E7E0803B-FEE1-49DF-A483-437A4D9A9998",
+      "system": false,
+      "text": "What about the Earth Cadets? ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438717653,
+      "favorited_by": [
+        "12128866",
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143871765393445540",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "F28D39D2-FAD7-4FF2-BD22-301A00FCE669",
+      "system": false,
+      "text": "Also Max: I will help testing. I'm also good at answering phones, have good people skills, and am competent in Microsoft Word. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438717851,
+      "favorited_by": [
+        "8470855"
+      ],
+      "group_id": "14217506",
+      "id": "143871785113540043",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "B35C8A16-5E3C-41B1-B619-9FD1E1D48B33",
+      "system": false,
+      "text": "My supervisor at Holiday World also wants you to know, \"I'm a real team player and can handle basic tasks independently with little direction from my superiors.\" ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438717852,
+      "favorited_by": [
+        "16149260"
+      ],
+      "group_id": "14217506",
+      "id": "143871785280638595",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "F19E814A-4102-43D4-9A67-0A657FEE039C",
+      "system": false,
+      "text": "Earth Cadets was taken 😓",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438717912,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871791219603210",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "3eba03666b160863ca00ce4e31165436",
+      "system": false,
+      "text": "Are you also good at synergy Grant?",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438717952,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871795211643210",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "EFE671E0-919B-48E7-BC58-CC9AA02117B2",
+      "system": false,
+      "text": "If by synergy you mean the copier, then yes.",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438717972,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871797293907529",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "B24D3BA2-CE84-4AB4-8C9B-331D9281644D",
+      "system": false,
+      "text": "😄👌",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438718031,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871803133096228",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "E5B9D331-C108-4C1E-9F43-00CF590CBD66",
+      "system": false,
+      "text": "Lol, it says unreachable web page. Just follow me on Spotify and check my followers because I'm following us. No pic yet but I'm working on it. Might need BerghBots help on this one",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438718037,
+      "favorited_by": [
+        "16149260"
+      ],
+      "group_id": "14217506",
+      "id": "143871803703380043",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "65669E4A-B297-4630-BF42-488DF8273212",
+      "system": false,
+      "text": "Hey BerghBot",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438718042,
+      "favorited_by": [
+        "10929478",
+        "12128866"
+      ],
+      "group_id": "14217506",
+      "id": "143871804235775548",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "7a777cd01d100133eadf22000b3c0bd3",
+      "system": false,
+      "text": "Hi Ceej! (•ω•)",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438718080,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871808077690172",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "076D9689-C4A9-44D2-AE91-DCE975787658",
+      "system": false,
+      "text": "Haha. Silence. I have won",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438718081,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143871808184980043",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "92017ee01d10013359a022000b8d88ed",
+      "system": false,
+      "text": "Shut up, Grant",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438718092,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143871809245235540",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "72EA8921-D42C-4290-9830-44E2C60AC363",
+      "system": false,
+      "text": "Halp",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.c55f6fa4a86948b79fdeec38b8178cc6",
+      "created_at": 1438718170,
+      "favorited_by": [
+        "27529955"
+      ],
+      "group_id": "14217506",
+      "id": "143871817088088595",
+      "name": "Cassidy",
+      "sender_id": "27529904",
+      "sender_type": "user",
+      "source_guid": "24C655DE-6754-4AF9-88F1-CAFE26CFB2BA",
+      "system": false,
+      "text": "hi vlad ",
+      "user_id": "27529904"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438731850,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143873185096128595",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "2B6FBDF3-140C-40A0-8427-ECE727CE41C4",
+      "system": false,
+      "text": "God dammit",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/719x1280.jpeg.3e6298e97c394629aaa2cfa66df48776"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438733554,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143873355403267670",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "5974353E-8AA4-40F1-B166-9977C74B0742",
+      "system": false,
+      "text": "Yeehah!  Got an interview with Google 😎",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/1080x1440.jpeg.77bbc49862bd4f9e84bdf308d9425d06"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438737416,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "275174",
+        "27529904",
+        "6915490",
+        "8470855",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143873741639530043",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "D099CFFE-8079-4F42-866C-B5012915C9AC",
+      "system": false,
+      "text": "You're not the only successful one here max. 😎",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x540.jpeg.a580beac2dde4b0485b8638483e9559e"
+        }
+      ],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438740480,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "16149260",
+        "22154404",
+        "2741336",
+        "275174",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143874048060355548",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "BD31FAA9-B199-4B23-A10F-C4D00F370BD1",
+      "system": false,
+      "text": "hi everybody!",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438740539,
+      "favorited_by": [
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143874053972967529",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "ED531BE1-2D87-49A3-AAED-3303228C46CC",
+      "system": false,
+      "text": "Where r uuuu",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438740563,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874056360687529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "85810B1D-4A2E-442A-BA5D-8BEA1E6106A4",
+      "system": false,
+      "text": "Ann Arbor!",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438740599,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874059973247670",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "56E11A16-23F0-4CC5-A370-16EAA4AA80C9",
+      "system": false,
+      "text": "Wuuuttttt",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438741001,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125"
+      ],
+      "group_id": "14217506",
+      "id": "143874100149595540",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "DB8F15F5-510D-4E0A-BFB4-0ABFEC2A6AC0",
+      "system": false,
+      "text": "Dugan thinks he's a bartender ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [
+        {
+          "preview_url": "https://v.groupme.com/14217506/2015-08-05T02:16:33Z/4c8bd41d.568x320r90.jpg",
+          "type": "video",
+          "url": "https://v.groupme.com/14217506/2015-08-05T02:16:33Z/4c8bd41d.568x320r90.mp4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438741004,
+      "favorited_by": [
+        "10929478",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874100410573210",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "53CAA4D5-214F-4B27-8CA7-FEA91AB1C63F",
+      "system": false,
+      "text": "https://v.groupme.com/14217506/2015-08-05T02:16:33Z/4c8bd41d.568x320r90.mp4",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438741131,
+      "favorited_by": [
+        "275174",
+        "27529955",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143874113191620157",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "89809C2A-50D2-4C85-BD98-5D1E66AA2BAF",
+      "system": false,
+      "text": "And CJ still sounds like a pussy!",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438745617,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874561736840157",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "6FDD494F-6E85-49C8-8FCB-8D919B71DAB4",
+      "system": false,
+      "text": "please add me on snapchat everyone! @dugan44",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438745749,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874574901748595",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "4C2AFD6D-CD3A-400B-9FF8-B6FC5BC733CD",
+      "system": false,
+      "text": "I promise you won't be disappointed",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438745752,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874575235853529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "AA312B5F-F880-4548-94AD-833F7F0E21F0",
+      "system": false,
+      "text": "probably ",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438745754,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874575429193529",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "9BE79E61-AC5C-47A6-BAEE-EF4237D8D2C1",
+      "system": false,
+      "text": "maybe",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "https://i.groupme.com/1276x1280.jpeg.c1eef9f06daf0131ea8422000aba058c",
+      "created_at": 1438745764,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874576413900157",
+      "name": "Dugan",
+      "sender_id": "7053341",
+      "sender_type": "user",
+      "source_guid": "D49E9986-299E-4092-A0ED-FF8E1A10B5BD",
+      "system": false,
+      "text": "jk, you probably will",
+      "user_id": "7053341"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438748100,
+      "favorited_by": [
+        "22154404",
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143874810075557529",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "CAE3C85F-ABFA-45B4-98C8-8CADF04CC3C2",
+      "system": false,
+      "text": "Dugan who hacked you",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748273,
+      "favorited_by": [
+        "10929478",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874827347878595",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "269A1B41-3627-4813-8A71-47F4A839F68D",
+      "system": false,
+      "text": "I did",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748281,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874828122630043",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "983BA23B-19F3-45A1-8403-CF6252C34292",
+      "system": false,
+      "text": "!!!!!",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438748326,
+      "favorited_by": [
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874832639013210",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "E3E0A82E-A32A-4BFD-AAF1-0FD58642F29B",
+      "system": false,
+      "text": "Lolz I just added him",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438748338,
+      "favorited_by": [
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874833846708595",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "5040EDE8-80F8-4F61-840B-65F0A3EF2F13",
+      "system": false,
+      "text": "Aubrey I thought I was gonna get cool snaps!",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748347,
+      "favorited_by": [
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874834730843529",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "E6C14645-3CB6-48B8-B269-A468785B95F9",
+      "system": false,
+      "text": "Yaaaaaaaaaa\n-Dugan",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748370,
+      "favorited_by": [
+        "6915490"
+      ],
+      "group_id": "14217506",
+      "id": "143874837001370172",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "526113CC-9FE8-4876-ACEC-F56CE2620E5D",
+      "system": false,
+      "text": "It's all working according to plan",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438748410,
+      "favorited_by": [
+        "22154404",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143874841036820172",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "F8DE32C0-A32E-41B0-AA5D-0114B692AF69",
+      "system": false,
+      "text": "So you're telling me that Dugan is Aubrey and Aubrey is Dugan?",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438748468,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874846851180172",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "8B3C7AA4-34FB-418B-8651-F13D4B24D303",
+      "system": false,
+      "text": "...uhhhh mindfuck",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438748550,
+      "favorited_by": [
+        "2741336",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143874855037033529",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "3A276DDA-E29C-45DA-8B84-B8B297D08339",
+      "system": false,
+      "text": "I don't know what this means about me but hey with either of them my S.O. is hot AF ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748876,
+      "favorited_by": [
+        "16149260",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143874887644396228",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "F0C46C45-FA2C-4AE9-A6E6-3B314C065517",
+      "system": false,
+      "text": "What is S.O.? ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438748886,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874888696055548",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "0674A886-23A1-468B-9A01-EA300AD37B56",
+      "system": false,
+      "text": "Significant other ❤️",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748937,
+      "favorited_by": [
+        "22154404",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874893737596228",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "9AB4379B-2E55-4232-BCD9-FE5197C3DDB5",
+      "system": false,
+      "text": "Yes\n-Dugan\n",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438748941,
+      "favorited_by": [
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874894176780172",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "FA318B7E-F367-4A60-AC7A-392762B9BCE2",
+      "system": false,
+      "text": "-Aubrey",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438748998,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874899815540172",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "EF79AB4F-9F01-4AE2-B432-0657ADCF8CB4",
+      "system": false,
+      "text": "❤️❤️❤️❤️",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749118,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874911874930172",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "F3D769B6-5DBC-4E2B-B626-93A6731C3DA0",
+      "system": false,
+      "text": "#mindfuck",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749122,
+      "favorited_by": [
+        "12128866",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874912234535548",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "4E4B4443-ADC7-4300-9109-A97F55E10058",
+      "system": false,
+      "text": "-Dugan ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438749139,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874913902555540",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "C8A893E0-3125-4F60-A4F7-15777ED24B0E",
+      "system": false,
+      "text": "See that's just something I know Bree would never say",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749164,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "22154404",
+        "2741336",
+        "27529955",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874916490745540",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "DFBF229D-0EC3-4DF2-BAF8-D33B780BDD2F",
+      "system": false,
+      "text": "#fuckyoumax",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438749175,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874917588890157",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "1A9E95EE-4E2C-4E89-8D3C-8AF943F5781C",
+      "system": false,
+      "text": "Also that",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438749188,
+      "favorited_by": [
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874918804975540",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "60111EAB-C69B-4E9E-99E3-EFA66DABC131",
+      "system": false,
+      "text": "Hi Dugan 👋🏼",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749193,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874919383077529",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "0782BC9C-72C8-4AFF-9C95-D0D63BAD18E1",
+      "system": false,
+      "text": "Fuck you BerghBot ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438749194,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874919486653210",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "02cf16401d5901332f6722000ba28866",
+      "system": false,
+      "text": "Fuck you too, Aubrey Purdy!",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438749199,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143874919918315540",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "81E1CCCE-6404-4BB5-B6CD-FDA499917056",
+      "system": false,
+      "text": "-Dugan",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749215,
+      "favorited_by": [
+        "22154404",
+        "2741336",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874921519720172",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "90B6BC8F-2918-4E3D-BE72-530419BCECBB",
+      "system": false,
+      "text": "#dugantakeover",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749220,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874922054250172",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "0C1759DF-BFB1-4958-8380-626963F741A3",
+      "system": false,
+      "text": "-Grant",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749226,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874922610603210",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "A51B71A6-811C-4C02-B62C-A56E90EAFE8A",
+      "system": false,
+      "text": "#myphoneisdead",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749239,
+      "favorited_by": [
+        "10929478",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874923927907670",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "46F163D6-97AB-49F8-A6F8-AE7CF097FC09",
+      "system": false,
+      "text": "#breeisdrunk",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438749246,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143874924666047529",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "38C15B4A-529B-4662-B9AF-67BFCB923300",
+      "system": false,
+      "text": "This is gonna make me become Vlad",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438749257,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874925709628595",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "9D66F236-80D0-4E10-B0EF-F5CC3DAE6723",
+      "system": false,
+      "text": "Dugan you haven't been on Twitter in a year, you have no right to abuse hashtags. ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438749260,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874926062257806",
+      "name": "GroupMe",
+      "sender_id": "system",
+      "sender_type": "system",
+      "source_guid": "2a00a6f01d59013377e422000b36179a",
+      "system": true,
+      "text": "Grant changed name to Dugan 2",
+      "user_id": "system"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438749278,
+      "favorited_by": [
+        "12128866",
+        "12334230",
+        "16149260",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874927819633210",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "EAC2EE5A-B18A-43EF-B39E-021A3ED2F67E",
+      "system": false,
+      "text": "Oh god what is grant up to",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749295,
+      "favorited_by": [
+        "16149260",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874929502990157",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "628C1D8D-C5A7-4089-B3A7-C830B4999F13",
+      "system": false,
+      "text": "^^oh god no",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749298,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874929874613210",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "7F941E4A-5314-4F9F-8B93-0E3C1B429DBD",
+      "system": false,
+      "text": "-Dugan",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749309,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143874930913920172",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "F6BA713A-BB30-4B21-B165-E94B0C031086",
+      "system": false,
+      "text": "-Dugan",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438749319,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874931939283529",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "F422610F-8B56-4893-8964-3813B498EF70",
+      "system": false,
+      "text": "Peace out\n-Dugan",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.6bb337e4b3184310957414ec5b1438d4"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749380,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143874938063100172",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "78BCBF3C-63A4-4EBE-9F74-223AA8A50872",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.cea6b08c51234a0fba56294a22a6cb1c"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749396,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "275174",
+        "7053341",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143874939662527529",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "87C59638-3A11-4EE7-8947-9289DC75C551",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749401,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143874940190290157",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "50DBAB97-4607-414C-91C0-B0F612A54D0A",
+      "system": false,
+      "text": "-Ceej",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.16faaa22cb4e4087bb95a53e984cffe9"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749422,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143874942290333529",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "792C904A-9D2F-473B-8966-22E4C3E0C95D",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.1e2b934ef35e4aef95db8e153be60a53"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749434,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143874943432835540",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "07D8E86F-CE29-4B28-AAB9-684A6A91B1C0",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749450,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143874945026450157",
+      "name": "Dugan 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "68E5ED2B-D469-4646-8C5A-AAAC0B54C2DD",
+      "system": false,
+      "text": "-Ceej",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438749464,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874946470137806",
+      "name": "GroupMe",
+      "sender_id": "system",
+      "sender_type": "system",
+      "source_guid": "a3a49e501d59013377e422000b36179a",
+      "system": true,
+      "text": "Dugan 2 changed name to Ceej 2",
+      "user_id": "system"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749486,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143874948637495548",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "8E539294-5F74-4DFB-A976-EC7D4AA6FD0F",
+      "system": false,
+      "text": "😎",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/640x480.jpeg.065193a1a7f04043b4fb7ddc180719c9"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438749757,
+      "favorited_by": [
+        "10929478",
+        "12822125",
+        "22154404",
+        "275174",
+        "27529955",
+        "6915490",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874975715927670",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "3CAE99E0-0A0B-48B1-B0BD-28D1C57DC6D9",
+      "system": false,
+      "text": null,
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.06cad5907c514558a94900336a7f2a3f",
+      "created_at": 1438749820,
+      "favorited_by": [
+        "10929478",
+        "12334230",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143874982089937806",
+      "name": "Talia",
+      "sender_id": "8470855",
+      "sender_type": "user",
+      "source_guid": "B6BACEA8-6B28-4773-A82C-7267A0109307",
+      "system": false,
+      "text": "Where's berghbot when you need him",
+      "user_id": "8470855"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438751674,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143875167445383210",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "EAEC6CE5-FB4C-451D-9D73-1A2AE532B6E3",
+      "system": false,
+      "text": "It's only when Grant posts too much.\n-Ceej 😎",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438751675,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143875167542778595",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "c956b1e01d5e013340c722000b608896",
+      "system": false,
+      "text": "Shut up, Grant",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438751692,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143875169235087670",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "E84D2CB9-6E13-461D-8096-8778CEFEDA0C",
+      "system": false,
+      "text": "Damn it!!!! Fuck your BerghBot!",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/92x92.png.a869142279284b86963c8114b724811c",
+      "created_at": 1438751693,
+      "favorited_by": [
+        "12128866",
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143875169321827670",
+      "name": "BerghBot",
+      "sender_id": "223826",
+      "sender_type": "bot",
+      "source_guid": "d3f14e801d5e0133349022000b810436",
+      "system": false,
+      "text": "Fuck you too, Ceej 2!",
+      "user_id": "223826"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438751705,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143875170583157670",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "4E07668D-3665-4CB4-802E-B286DF66FEFA",
+      "system": false,
+      "text": "Haha. Stupid robot ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [
+        {
+          "type": "image",
+          "url": "http://i.groupme.com/720x960.jpeg.7b265a42f7f1400683991b1ace6fd50f"
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438751829,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12822125",
+        "22154404",
+        "2741336",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143875182973525548",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "044217D2-9070-4288-8771-84F82EF019CF",
+      "system": false,
+      "text": null,
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438751856,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143875185629413529",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "25F35F3E-600A-4D99-B1F8-A6A55D898A8A",
+      "system": false,
+      "text": "Honorary memberz",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [
+        {
+          "loci": [
+            [
+              69,
+              7
+            ]
+          ],
+          "type": "mentions",
+          "user_ids": [
+            "8985925"
+          ]
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438794622,
+      "favorited_by": [
+        "275174",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143879462228556228",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "F7089C3D-F589-48C8-A181-FD38285C1764",
+      "system": false,
+      "text": "My google interviewer is a Kappa from University of Michigan.  Quick @Marlee how do I proceed?",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438795118,
+      "favorited_by": [
+        "12822125",
+        "16149260",
+        "22154404",
+        "2741336",
+        "27529955"
+      ],
+      "group_id": "14217506",
+      "id": "143879511834926228",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "25AE3072-A7D1-4FEC-ACAB-9BD8983B0E54",
+      "system": false,
+      "text": "Bow down ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438795164,
+      "favorited_by": [
+        "22154404",
+        "2741336",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143879516405215540",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "DAA55DCB-EB88-45D6-B546-E17EE238AF63",
+      "system": false,
+      "text": "Jk I know a kappa from Umich named Megan Miller, she was the president 3 years ago. She's the sweetest! ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438795799,
+      "favorited_by": [
+        "12128866",
+        "12822125",
+        "13066463",
+        "16149260",
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143879579961113210",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "505705F4-DF19-4E76-A13C-BFCED6091BD3",
+      "system": false,
+      "text": "Haha well she said we finished the phone screen in record time and she expects that I have a good shot at getting the position, so I guess my game with kappa's has gone up since UCLA",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438809829,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "12822125",
+        "16149260",
+        "22154404",
+        "2741336",
+        "27529904",
+        "27529955",
+        "6915490",
+        "7053341",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143880982948197529",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "AF693F3B-73FE-4109-92A2-C4EB97B9DA71",
+      "system": false,
+      "text": "Not the first woman to try to convince Max that \"finishing in record time\" was a good thing.. ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438809916,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143880991675720157",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "28215914-6B8C-4281-A181-8310AAD73613",
+      "system": false,
+      "text": "YESSSSS hahaha^^^^^",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438809971,
+      "favorited_by": [
+        "12822125",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143880997177657670",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "34901FFF-E45C-4C9B-9CDA-EFE0B1074D34",
+      "system": false,
+      "text": "Max you just got straight Meek'd",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438809989,
+      "favorited_by": [
+        "10929478",
+        "12822125",
+        "16149260",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143880998977470157",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "3B11DED4-1160-4631-828E-20601734920B",
+      "system": false,
+      "text": " I don't even know what that means but I'm laughing ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438810054,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143881005425573210",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "8CDB7494-2DFD-4875-8BF5-9BF1625DB5C2",
+      "system": false,
+      "text": "Google Drake Meek Mill feud and then start reading the memes. You'll still be laughing",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438810079,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143881007964470172",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "8F993EC3-AD5C-4C06-80D5-1DEACEFA6534",
+      "system": false,
+      "text": "...",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438810109,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143881010995820043",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "DE700A48-BCED-4586-A33B-ED4DBCB31690",
+      "system": false,
+      "text": "What, are you a Meek Mill fan JM?",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438810115,
+      "favorited_by": [
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143881011539733529",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "95D30638-B501-460E-98C7-3B6FAA4E4486",
+      "system": false,
+      "text": "Hey Greg! What are you doing this Friday?",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438810207,
+      "favorited_by": [
+        "12822125",
+        "22154404",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143881020762247529",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "B0F0E47B-F985-4C59-B194-D753E767D204",
+      "system": false,
+      "text": "Busy being wifed up. Alyssa's family is doing a weekend on Lake Michigan and I'm  tagging along. What are you doing Friday? ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438810238,
+      "favorited_by": [
+        "10929478"
+      ],
+      "group_id": "14217506",
+      "id": "143881023856637670",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "DE1A4584-78CB-4883-95AC-9FB821BE42C5",
+      "system": false,
+      "text": "^^ Sounds heavy",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438811005,
+      "favorited_by": [
+        "16149260",
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143881100564583529",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "AFA8170B-9924-4952-9178-86C6E2C011CE",
+      "system": false,
+      "text": "Hmm CJ it was funnier before I googled that   ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438812069,
+      "favorited_by": [
+        "16149260"
+      ],
+      "group_id": "14217506",
+      "id": "143881206975003210",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "56C3916A-9BD4-4157-968B-AAA631954C7F",
+      "system": false,
+      "text": "Awe man...well it's my last week in Indy! I head out next Tuesday! Wanted to see if anyone wanted to go out",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438813345,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143881334545640043",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "1917E4F0-B7E7-4B49-B1FE-55B276E844CA",
+      "system": false,
+      "text": "Forgot you listened to country, pleb",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [
+        {
+          "loci": [
+            [
+              0,
+              11
+            ]
+          ],
+          "type": "mentions",
+          "user_ids": [
+            "275174"
+          ]
+        }
+      ],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438813859,
+      "favorited_by": [
+        "12128866",
+        "275174",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143881385907646228",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "FE440DF7-81B6-49CC-9AF1-470108D0B5D6",
+      "system": false,
+      "text": "@Gerg Bruns Your clitoris is showing ",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438814520,
+      "favorited_by": [
+        "10929478",
+        "12334230",
+        "16149260",
+        "22154404",
+        "2741336",
+        "275174",
+        "27529904",
+        "6915490",
+        "8470855",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143881452018943210",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "2418C6BE-77AC-4032-8CF4-68679974A667",
+      "system": false,
+      "text": "Cal you're just mad because it's bigger than your micropenis. ",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/79105120f8a30130e8794a5f2a4ed390",
+      "created_at": 1438814529,
+      "favorited_by": [
+        "16149260",
+        "2741336",
+        "275174",
+        "8470855",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143881452910850043",
+      "name": "Marlee",
+      "sender_id": "8985925",
+      "sender_type": "user",
+      "source_guid": "E2A0737B-E7DC-4C31-B90C-5FCC1C612BEF",
+      "system": false,
+      "text": "OHHH I WENT THERE",
+      "user_id": "8985925"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438815094,
+      "favorited_by": [
+        "16149260"
+      ],
+      "group_id": "14217506",
+      "id": "143881509451148595",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "3B9189C8-EF8D-4D2C-9683-4D4E80460B93",
+      "system": false,
+      "text": "Fucking savage",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438818066,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143881806679550172",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "97DC2235-3446-491D-AC73-93359D0CEF69",
+      "system": false,
+      "text": "Guys quick I need an opening line for a super hot Swedish girl babysitting some kids at stanfords pool.  ASAP SOS",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438818405,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "6915490",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143881840529168595",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "2E29D5AA-AF59-46CE-8851-B481A4EF23E7",
+      "system": false,
+      "text": "Howdy ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438819290,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143881929006503210",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "07174ABE-AB29-4A86-B24C-E1E0AE1338A2",
+      "system": false,
+      "text": "I don't think she speaks enough English to get that",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438819323,
+      "favorited_by": [
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143881932370870043",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "CC34FB34-1F9C-40B7-B1BD-65EC39BA8F2E",
+      "system": false,
+      "text": "Just say hi how are you? ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438819332,
+      "favorited_by": [
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143881933209776228",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "2E259A9D-0866-4DEB-A5DA-106E8BA346B8",
+      "system": false,
+      "text": "And then ask her her name! Haha ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438819372,
+      "favorited_by": [
+        "13066463",
+        "22154404",
+        "275174",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143881937220680172",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "8FCD8CA4-39C6-4CE1-AF28-BD912146D6D8",
+      "system": false,
+      "text": "^thats what Kevin did ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438821092,
+      "favorited_by": [
+        "22154404",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143882109289890172",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "8421B7D2-E6FE-44F1-9FFD-55B148E2ECE7",
+      "system": false,
+      "text": "Boulder in 6 days!!!!!",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438821111,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143882111184225540",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "CAD39C89-08F2-4BD6-989D-E8ED4190B885",
+      "system": false,
+      "text": "Aubrey you need to come down to boulder when you get back!!!",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438821131,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882113193476228",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "C8A180D6-36E9-4184-ADF4-30160FFE3E0E",
+      "system": false,
+      "text": "Oh you know I will!!!",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438822616,
+      "favorited_by": [
+        "12822125",
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143882261691480043",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "ACCCCE34-28A2-4143-BAFE-6E924E2D2DDA",
+      "system": false,
+      "text": "Hey JM, I'll be in Indy Saturday for the MotoGP race. You and Greg wanna meet up? ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438822675,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882267596423210",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "1E3E2E27-29B8-4AD0-A0F7-C1DB5B020B14",
+      "system": false,
+      "text": "I'll be at the track most of the day. You guys could either come chill in the in field with me or we could meet for dinner or something",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438822680,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882268078003529",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "2AD1EA47-696E-423A-920A-89BA8F94A18F",
+      "system": false,
+      "text": "For sure",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438822728,
+      "favorited_by": [
+        "12822125"
+      ],
+      "group_id": "14217506",
+      "id": "143882272829970157",
+      "name": "Ceej 2",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "61A144E6-601F-41FB-ABDA-DEAD5FD41EBB",
+      "system": false,
+      "text": "Sweet. And maybe we can set Gerg free from the old ball and chain",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438822746,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882274641155548",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "04BD8FE8-31C1-429F-8DAC-D26B96C7ABFB",
+      "system": false,
+      "text": "Hahah",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438822759,
+      "favorited_by": [
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143882275957210157",
+      "name": "GroupMe",
+      "sender_id": "system",
+      "sender_type": "system",
+      "source_guid": "4aca56e01e04013392b922000b698e88",
+      "system": true,
+      "text": "Ceej 2 changed name to Grant",
+      "user_id": "system"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438822811,
+      "favorited_by": [
+        "22154404"
+      ],
+      "group_id": "14217506",
+      "id": "143882281162426228",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "5B5CB3C0-4DED-4ED3-8D37-53EEDEFE9897",
+      "system": false,
+      "text": "Grant change your name back...",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438822827,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882282744997670",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "D2B99E24-71BA-4F09-8040-ED9C37162582",
+      "system": false,
+      "text": ".....why? ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438822854,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "12334230",
+        "16149260",
+        "22154404",
+        "6915490",
+        "7053341"
+      ],
+      "group_id": "14217506",
+      "id": "143882285443970172",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "2F4CAF91-2D36-41A8-AE12-B22AE37F5306",
+      "system": false,
+      "text": "Damnit I thought grant was actually CJ and was going to be here. Got excited ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438822890,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882289081710043",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "525A1CAA-027A-480C-96A8-6DFB64DC4A1C",
+      "system": false,
+      "text": "I meant to grant!!! Wow we were on the same page lol ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": null,
+      "created_at": 1438822897,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143882289775795548",
+      "name": "Jean-michel Mbouroukounda",
+      "sender_id": "12822125",
+      "sender_type": "user",
+      "source_guid": "1823E173-5C7C-43F9-B950-F76D199A9FC7",
+      "system": false,
+      "text": "Get out Grant!!",
+      "user_id": "12822125"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e9950f6690544f509bf87fa2b8d933a6",
+      "created_at": 1438822995,
+      "favorited_by": [
+        "275174"
+      ],
+      "group_id": "14217506",
+      "id": "143882299593920157",
+      "name": "Grant",
+      "sender_id": "16149260",
+      "sender_type": "user",
+      "source_guid": "8113D2D1-EB80-4D67-A40B-30B48B0640E1",
+      "system": false,
+      "text": "Lol. Fuck you. Come to the track Greg. You can leave your balls in your gfs purse until you come back. ",
+      "user_id": "16149260"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/200x200.jpeg.e557e399814e4e21a60c58d5dd82538d",
+      "created_at": 1438825412,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "2741336",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143882541225328595",
+      "name": "Ryann",
+      "sender_id": "12334230",
+      "sender_type": "user",
+      "source_guid": "9899C53F-52DE-4AD9-AE33-325D1388D4BD",
+      "system": false,
+      "text": "I just played knock out with Justin Holiday, Jrue Holiday, and Emmanuel Mudiay. ",
+      "user_id": "12334230"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438951039,
+      "favorited_by": [
+        "22154404",
+        "275174",
+        "27529904"
+      ],
+      "group_id": "14217506",
+      "id": "143895103915045409",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "A1E9FC8E-75B4-438F-96D7-6C65239E61D5",
+      "system": false,
+      "text": "1. hi cassidy 😘\n2. 😂😂😂 greg's comment on max interview made me laugh so hard. people in the bus are confused.",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438951102,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "13066463",
+        "16149260",
+        "22154404",
+        "275174",
+        "27529904",
+        "6915490",
+        "7053341",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143895110253828551",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "6979D52D-2C7E-46E9-8A74-F92B2CD4EFBC",
+      "system": false,
+      "text": "3. I know you don't care that much but I'm off to the urban dance camp 🙈 that's some master shit right there. I'm excited and wanna share lol.",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1438951167,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143895116723657524",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "2142852C-C864-4DA6-B3C7-EE0D936C1C67",
+      "system": false,
+      "text": "Urban dance camp?  Jeez that's cool",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1438951187,
+      "favorited_by": [
+        "12128866",
+        "16149260",
+        "22154404",
+        "27529955",
+        "7053341",
+        "8470855",
+        "8985925",
+        "9421806"
+      ],
+      "group_id": "14217506",
+      "id": "143895118761567830",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-3d9c84c5-22ac-485e-9298-68ed3c195e4f",
+      "system": false,
+      "text": "Just let us know when you're on Switzerland's got Talent ",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438951218,
+      "favorited_by": [
+        "10929478",
+        "12128866",
+        "16149260",
+        "22154404",
+        "2741336",
+        "275174",
+        "27529904",
+        "8470855",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143895121850640782",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "BA8F8C49-9018-4DB8-A01C-CA350D3AEFB8",
+      "system": false,
+      "text": "4. ok that's one for the feels. I bought a armband in morocco (i never wore any b4 sas) which always reminded me of you guys. it broke and fell from my arm twice in random places and I always managed to find it again. now it's in my wallet and i think abt you guys everytime i'm buying smth 😜",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.b8e07216837d48f7b24d23875da7b1b2",
+      "created_at": 1438951248,
+      "favorited_by": [
+        "12128866",
+        "12822125",
+        "22154404",
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143895124834800782",
+      "name": "Lebolas",
+      "sender_id": "27529955",
+      "sender_type": "user",
+      "source_guid": "B4A58CAC-7F6B-4A81-95AB-0007D9B67934",
+      "system": false,
+      "text": "🙈 it's huge, the ELITE of choreographers teaches there..",
+      "user_id": "27529955"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1438963661,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143896366187721620",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "5A1E7D29-0FEA-49F1-AEE5-B4FDC5B93FF0",
+      "system": false,
+      "text": "That's awesome! Have fun vlad :) ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/640x640.jpeg.759b720382a846fca6d9c8daeb3fc83b",
+      "created_at": 1438965625,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "275174",
+        "27529955"
+      ],
+      "group_id": "14217506",
+      "id": "143896562518101620",
+      "name": "Slightly Hardened Cal",
+      "sender_id": "6915490",
+      "sender_type": "user",
+      "source_guid": "F78659CE-C4D0-4FB2-B38E-08CFED694BC0",
+      "system": false,
+      "text": "Vlad whenever I see marshmellows I think of you cuz you're both soft",
+      "user_id": "6915490"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/3ffc19805dc50130034012313d04f670",
+      "created_at": 1438965735,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143896573573415409",
+      "name": "Gerg Bruns",
+      "sender_id": "275174",
+      "sender_type": "user",
+      "source_guid": "56D0573F-08DE-4536-A7B5-2497B294FDBD",
+      "system": false,
+      "text": " Soft as baby shit ",
+      "user_id": "275174"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438966026,
+      "favorited_by": [
+        "22154404",
+        "27529955"
+      ],
+      "group_id": "14217506",
+      "id": "143896602679092652",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "5B6C756F-2C86-4978-B1B3-1EAC4566448E",
+      "system": false,
+      "text": "Congratulations Vlad, just be careful you don't make all the other guys and gals there look TOO bad with you're dripping swag. Have a blast man!",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x1280.jpeg.b29d155427f44666b5760f32b0a9b1f3",
+      "created_at": 1438966044,
+      "favorited_by": [
+        "10929478",
+        "16149260",
+        "22154404",
+        "2741336",
+        "275174",
+        "27529904",
+        "27529955"
+      ],
+      "group_id": "14217506",
+      "id": "143896604433805409",
+      "name": "Ceej",
+      "sender_id": "12128866",
+      "sender_type": "user",
+      "source_guid": "81151ABC-CCA1-46BA-B2FA-0FE5B4599207",
+      "system": false,
+      "text": "Your *** FUCK",
+      "user_id": "12128866"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/677c7290d36f013055df2234e932444f",
+      "created_at": 1439065290,
+      "favorited_by": [
+        "7053341",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143906529082281914",
+      "name": "Dani",
+      "sender_id": "9421806",
+      "sender_type": "user",
+      "source_guid": "3587F999-D2E6-49E5-999C-3EDCBD53F5C3",
+      "system": false,
+      "text": "Max I see it's your birthday. Have an okay day.",
+      "user_id": "9421806"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1439065336,
+      "favorited_by": [
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143906533664081914",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "8CA6AD16-1E57-4944-BDFE-B751EDC7CB98",
+      "system": false,
+      "text": "Oh hey thanks Dani.  I hope you enjoy an average PB&J for lunch",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/720x960.jpeg.5dda09e26c2d434a8afc38ed919cb915",
+      "created_at": 1439065421,
+      "favorited_by": [
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143906542114450782",
+      "name": "Nick",
+      "sender_id": "10929478",
+      "sender_type": "user",
+      "source_guid": "android-fde083b5-2b66-42c2-826b-b0d776d21b7b",
+      "system": false,
+      "text": "I'd write happy birthday on your Facebook wall if you unblocked me",
+      "user_id": "10929478"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1439065443,
+      "favorited_by": [
+        "10929478",
+        "22154404",
+        "8985925"
+      ],
+      "group_id": "14217506",
+      "id": "143906544377331620",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "5AA3C02A-0A6F-4532-8CAF-EA202240A9BC",
+      "system": false,
+      "text": "Oh cool yeah I should do that.  Austin was being douchey",
+      "user_id": "2741336"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/677c7290d36f013055df2234e932444f",
+      "created_at": 1439065547,
+      "favorited_by": [
+        "2741336"
+      ],
+      "group_id": "14217506",
+      "id": "143906554789854400",
+      "name": "Dani",
+      "sender_id": "9421806",
+      "sender_type": "user",
+      "source_guid": "B63D33F5-CA8B-49DE-AEB0-B241675562C1",
+      "system": false,
+      "text": "It's almost dinner time here, you call yourself a ucla grad..",
+      "user_id": "9421806"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1439065558,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143906555865585409",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "CA136C0F-4803-4D9F-98D0-C91AFFC04DFB",
+      "system": false,
+      "text": "Uhm unblock me too!!! ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/1280x1280.jpeg.a956b36acb214574b56d5b0473ff7844",
+      "created_at": 1439065571,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143906557132961620",
+      "name": "Aubrey Purdy",
+      "sender_id": "22154404",
+      "sender_type": "user",
+      "source_guid": "7887414C-091F-4C03-81CC-20BBC0316625",
+      "system": false,
+      "text": "Happy birthday max!!! ",
+      "user_id": "22154404"
+    },
+    {
+      "attachments": [],
+      "avatar_url": "http://i.groupme.com/750x750.jpeg.cb3046f0688c4ff99e9022ba79fc4074",
+      "created_at": 1439065622,
+      "favorited_by": [],
+      "group_id": "14217506",
+      "id": "143906562221827258",
+      "name": "Max",
+      "sender_id": "2741336",
+      "sender_type": "user",
+      "source_guid": "26AC7A1C-29AE-41A7-9F94-1D36C73C0AA1",
+      "system": false,
+      "text": "Thanks Bree!  Just did haha",
+      "user_id": "2741336"
     }
   ]
 }

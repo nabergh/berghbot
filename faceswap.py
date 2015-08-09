@@ -41,7 +41,7 @@ import numpy
 
 import sys
 
-PREDICTOR_PATH = "../shape_predictor_68_face_landmarks.dat"
+PREDICTOR_PATH = "shape_predictor_68_face_landmarks.dat"
 SCALE_FACTOR = 1 
 FEATHER_AMOUNT = 11
 
@@ -81,12 +81,14 @@ class NoFaces(Exception):
 def get_landmarks(im):
     rects = detector(im, 1)
     
-    if len(rects) > 1:
-        raise TooManyFaces
     if len(rects) == 0:
         raise NoFaces
 
-    return numpy.matrix([[p.x, p.y] for p in predictor(im, rects[0]).parts()])
+    rectlist = []
+    for i in xrange(len(rects)):
+        rectlist.append(numpy.matrix([[p.x, p.y] for p in predictor(im, rects[i]).parts()]))
+
+    return rectlist
 
 def annotate_landmarks(im, landmarks):
     im = im.copy()
@@ -188,21 +190,29 @@ def correct_colours(im1, im2, landmarks1):
     return (im2.astype(numpy.float64) * im1_blur.astype(numpy.float64) /
                                                 im2_blur.astype(numpy.float64))
 
-im1, landmarks1 = read_im_and_landmarks(sys.argv[1])
-im2, landmarks2 = read_im_and_landmarks(sys.argv[2])
+input_im, landmarks = read_im_and_landmarks(sys.argv[1])
+output_im = input_im.copy()
 
-M = transformation_from_points(landmarks1[ALIGN_POINTS],
-                               landmarks2[ALIGN_POINTS])
+print str(len(landmarks)) + " faces detected"
 
-mask = get_face_mask(im2, landmarks2)
-warped_mask = warp_im(mask, M, im1.shape)
-combined_mask = numpy.max([get_face_mask(im1, landmarks1), warped_mask],
+for i in xrange(len(landmarks)):
+    im1 = input_im.copy()
+    im2 = input_im.copy()
+
+    j = i + 1
+    if i == len(landmarks) - 1:
+        j = 0
+    M = transformation_from_points(landmarks[i][ALIGN_POINTS],
+                               landmarks[j][ALIGN_POINTS])
+
+    mask = get_face_mask(im2, landmarks[j])
+    warped_mask = warp_im(mask, M, im1.shape)
+    combined_mask = numpy.max([get_face_mask(im1, landmarks[i]), warped_mask],
                           axis=0)
 
-warped_im2 = warp_im(im2, M, im1.shape)
-warped_corrected_im2 = correct_colours(im1, warped_im2, landmarks1)
+    warped_im2 = warp_im(im2, M, im1.shape)
+    warped_corrected_im2 = correct_colours(im1, warped_im2, landmarks[i])
 
-output_im = im1 * (1.0 - combined_mask) + warped_corrected_im2 * combined_mask
+    output_im = output_im * (1.0 - combined_mask) + warped_corrected_im2 * combined_mask
 
-cv2.imshow(output_im);
-cv2.imwrite('output.jpg', output_im)
+cv2.imwrite(sys.argv[2], output_im)

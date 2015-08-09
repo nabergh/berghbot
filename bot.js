@@ -1,5 +1,8 @@
 var HTTPS = require('https');
 var cool = require('cool-ascii-faces');
+var swapper = require('./faceswap.js');
+var ImageService = require('groupme').ImageService;
+
 
 var botID = process.env.BOT_ID;
 var counter = 0;
@@ -9,7 +12,8 @@ function respond() {
   var request = JSON.parse(this.req.chunks[0]),
     greeting = /(hi|hello|hey)\b.*bergh\s*bot/ig,
     fuck = /(fuck\b.*you.*bergh\s*bot)|(bergh\s*bot.*fuck\b.*you)/ig,
-    gmail = /grant.*mail/ig;
+    gmail = /grant.*mail/ig,
+    faceswap = /face\s*swap\s*bergh\s*bot/ig;
   // greeting = /^\/cool guy$/;
   // console.log(JSON.stringify(request));
   this.res.writeHead(200);
@@ -37,6 +41,9 @@ function respond() {
       var msg = "Grant's gmail is grant.shepherd629@gmail.com. Spam away!";
       setTimeout(postMessage, delay, msg);
     }
+    if (faceswap.test(request.text) && request["sender_id"] != "223826") {
+      swapper.swap();
+    }
   };
   this.res.end();
 
@@ -49,7 +56,7 @@ function parrot() {
   }
 }
 
-function postMessage(botResponse) {
+function postMessage(txt, img) {
   var options, body, botReq;
 
   options = {
@@ -60,8 +67,15 @@ function postMessage(botResponse) {
 
   body = {
     "bot_id": botID,
-    "text": botResponse
+    "text": txt
   };
+
+  if (img) {
+    body.attachments = [{
+      "type": "image",
+      "url": img
+    }];
+  }
 
   console.log('sending ' + botResponse + ' to ' + botID);
 
@@ -80,6 +94,10 @@ function postMessage(botResponse) {
     console.log('timeout posting message ' + JSON.stringify(err));
   });
   botReq.end(JSON.stringify(body));
+}
+
+function sendFaceswap(url) {
+  postMessage('', url);
 }
 
 exports.respond = respond;
