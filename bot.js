@@ -77,7 +77,7 @@ function postMessage(txt, img) {
     }];
   }
 
-  console.log('sending ' + botResponse + ' to ' + botID);
+  console.log('sending ' + txt);
 
   botReq = HTTPS.request(options, function(res) {
     if (res.statusCode == 202) {
