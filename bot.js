@@ -96,7 +96,7 @@ function postMessage(txt, img) {
   botReq.end(JSON.stringify(body));
 }
 
-function sendFaceswap(url) {
+exports.sendFaceswap = function (url) {
   console.log("sending back " + url);
   postMessage('', url);
 }

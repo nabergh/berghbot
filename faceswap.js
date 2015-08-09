@@ -12,7 +12,7 @@ var options = {
   limit: 20
 };
 
-function getLatestImgUrl(before_id) {
+exports.getLatestImgUrl = function (before_id) {
   console.log("checking messages for img...");
   if (before_id) {
     options["before_id"] = before_id;
@@ -37,7 +37,7 @@ function checkForImgs(err, data) {
         }
       }
     }
-    getLatestImgUrl(messages[options.limit - 1]["id"])
+    exports.getLatestImgUrl(messages[options.limit - 1]["id"])
   }
 }
 
