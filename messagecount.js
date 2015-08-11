@@ -257,5 +257,5 @@ var membersList = [{
   "autokicked": false
 }];
 
-updateMessages();
-// refreshMessages();
+// updateMessages();
+refreshMessages();
